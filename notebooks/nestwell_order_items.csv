@@ -1,0 +1,1208 @@
+order_id,order_item_id,product_id,product_name,category_name,price,freight_value,is_final_sale
+ORD-1000,1,2902BDF3,Resistance Bands,Sports & Leisure,77.84,10.84,False
+ORD-1001,1,06AD7EA1,Smart Plug,Electronics,205.08,11.56,False
+ORD-1001,2,0D81810B,Air Purifier,Home Appliances,18.49,19.94,False
+ORD-1002,1,A4C752A7,Soil Meter,Garden Tools,128.85,17.5,False
+ORD-1003,1,214CC923,Electric Kettle,Home Appliances,25.15,16.81,True
+ORD-1003,2,4B876D7D,Cutting Board,Kitchen Accessories,188.13,15.0,False
+ORD-1003,3,DBAA3606,Memory Foam Pillow,Bed & Bath,213.68,5.54,False
+ORD-1004,1,0F6FAD79,Smart Plug,Electronics,65.65,14.72,True
+ORD-1004,2,249F7EC3,Electric Kettle,Home Appliances,191.09,6.45,False
+ORD-1005,1,CE68EEA6,Chef Knife Set,Kitchen Accessories,37.77,13.91,False
+ORD-1005,2,068B229A,Cutting Board,Kitchen Accessories,105.48,17.16,False
+ORD-1006,1,0A20A057,Ergonomic Chair,Office Furniture,224.75,13.63,False
+ORD-1006,2,41186AD8,Side Table,Furniture & Decor,141.69,10.02,False
+ORD-1007,1,809A3058,Resistance Bands,Sports & Leisure,164.09,13.29,False
+ORD-1008,1,C875807A,Air Purifier,Home Appliances,34.68,17.7,False
+ORD-1008,2,DD57C37B,Cotton Duvet,Bed & Bath,203.87,6.2,True
+ORD-1008,3,FD478028,Cast Iron Pan,Kitchen Accessories,103.31,17.1,False
+ORD-1009,1,6484025A,Floor Lamp,Furniture & Decor,151.83,12.84,False
+ORD-1009,2,1D2116BB,Cotton Duvet,Bed & Bath,142.38,15.75,False
+ORD-1010,1,3D763854,Planter Pot,Garden Tools,103.87,13.36,False
+ORD-1011,1,BE64E5EC,Cast Iron Pan,Kitchen Accessories,200.2,19.79,False
+ORD-1011,2,58090CD3,LED Desk Lamp,Electronics,72.97,7.9,False
+ORD-1011,3,6C9B903E,Bluetooth Speaker,Electronics,51.25,15.04,True
+ORD-1012,1,411CE1B3,Garden Hose,Garden Tools,107.31,10.0,False
+ORD-1012,2,CB48C688,Smart Plug,Electronics,35.65,5.78,False
+ORD-1013,1,18E722D5,Robot Vacuum,Home Appliances,124.72,6.05,False
+ORD-1014,1,2FF71A90,Desk Organizer,Office Furniture,56.12,15.14,False
+ORD-1015,1,BA7B8D6F,Standing Desk,Office Furniture,34.27,16.06,False
+ORD-1015,2,4158FFEE,Resistance Bands,Sports & Leisure,28.95,13.77,True
+ORD-1016,1,279F988A,Wall Mirror,Furniture & Decor,51.63,10.59,False
+ORD-1017,1,04233768,Monitor Riser,Office Furniture,56.87,6.9,False
+ORD-1018,1,9A67D9FF,Cotton Duvet,Bed & Bath,197.8,11.87,False
+ORD-1019,1,E753517B,Garden Hose,Garden Tools,184.32,14.56,False
+ORD-1020,1,AC32A519,Side Table,Furniture & Decor,102.33,12.82,False
+ORD-1021,1,B040821F,Bluetooth Speaker,Electronics,73.57,15.94,False
+ORD-1022,1,DB023FA4,Desk Organizer,Office Furniture,138.73,18.37,False
+ORD-1023,1,A2A6A1EA,Robot Vacuum,Home Appliances,225.69,5.59,False
+ORD-1024,1,7769D9E4,Robot Vacuum,Home Appliances,128.24,12.18,False
+ORD-1024,2,9C18965B,Mixing Bowls,Kitchen Accessories,120.47,6.24,False
+ORD-1025,1,E164AD4C,Resistance Bands,Sports & Leisure,41.79,9.43,False
+ORD-1025,2,DD164C75,Chef Knife Set,Kitchen Accessories,117.1,9.56,False
+ORD-1026,1,30394F2B,Robot Vacuum,Home Appliances,113.63,7.07,False
+ORD-1026,2,ACFD026E,Bamboo Towels,Bed & Bath,149.01,15.55,True
+ORD-1027,1,EAF17330,Water Bottle,Sports & Leisure,128.2,9.44,False
+ORD-1027,2,8592CDE0,Side Table,Furniture & Decor,147.63,10.03,False
+ORD-1028,1,F72F3EAE,Ergonomic Chair,Office Furniture,37.07,10.47,False
+ORD-1029,1,F1909241,Cotton Duvet,Bed & Bath,134.67,16.59,False
+ORD-1030,1,33524336,Mixing Bowls,Kitchen Accessories,173.0,16.27,False
+ORD-1031,1,0AC8B210,Bookshelf,Furniture & Decor,89.53,9.0,False
+ORD-1031,2,B913D907,Pruning Shears,Garden Tools,26.74,10.17,False
+ORD-1032,1,235F5AD3,Mixing Bowls,Kitchen Accessories,167.02,15.16,False
+ORD-1033,1,3E26FBB3,Ergonomic Chair,Office Furniture,53.86,18.25,True
+ORD-1034,1,9E54AF27,Bamboo Towels,Bed & Bath,220.93,6.14,False
+ORD-1035,1,16CFA50D,Weighted Blanket,Bed & Bath,45.65,8.05,False
+ORD-1036,1,EF10280F,Resistance Bands,Sports & Leisure,115.83,11.29,False
+ORD-1037,1,CD3E2E34,Side Table,Furniture & Decor,17.77,17.02,False
+ORD-1038,1,3159DC04,Desk Organizer,Office Furniture,138.57,14.83,False
+ORD-1039,1,02709223,Bluetooth Speaker,Electronics,78.98,6.97,False
+ORD-1040,1,D227C641,Garden Hose,Garden Tools,118.07,19.55,False
+ORD-1041,1,4B17CE9E,Monitor Riser,Office Furniture,111.93,7.49,False
+ORD-1042,1,218B620E,Garden Hose,Garden Tools,224.18,17.58,False
+ORD-1042,2,22C6704C,Memory Foam Pillow,Bed & Bath,64.62,5.61,False
+ORD-1043,1,98D290C8,Planter Pot,Garden Tools,53.03,13.43,True
+ORD-1044,1,0677E407,Standing Desk,Office Furniture,93.91,13.09,False
+ORD-1045,1,4F5DF5A2,Robot Vacuum,Home Appliances,215.03,16.52,False
+ORD-1046,1,03829D20,Cotton Duvet,Bed & Bath,223.51,13.18,False
+ORD-1046,2,20161378,Soil Meter,Garden Tools,207.42,19.53,False
+ORD-1046,3,7EC3504D,Weighted Blanket,Bed & Bath,86.48,6.67,False
+ORD-1047,1,7D1C86C3,Cast Iron Pan,Kitchen Accessories,18.37,14.25,False
+ORD-1048,1,79F5DD45,Ergonomic Chair,Office Furniture,144.96,7.92,False
+ORD-1049,1,A77856DC,Garden Hose,Garden Tools,17.88,13.07,False
+ORD-1049,2,8964DD68,Mixing Bowls,Kitchen Accessories,55.19,9.76,False
+ORD-1050,1,8516057A,Desk Organizer,Office Furniture,45.09,17.8,False
+ORD-1050,2,98E02EC9,Ergonomic Chair,Office Furniture,74.76,10.26,False
+ORD-1050,3,3EAE5464,Cutting Board,Kitchen Accessories,170.93,11.65,False
+ORD-1051,1,CAD9E42A,Garden Hose,Garden Tools,187.82,19.55,False
+ORD-1051,2,2B44A264,Resistance Bands,Sports & Leisure,194.3,13.96,False
+ORD-1052,1,2C546A7D,Ergonomic Chair,Office Furniture,215.48,13.85,False
+ORD-1053,1,6CF03C69,Soil Meter,Garden Tools,50.94,11.92,False
+ORD-1054,1,B75F1EF2,Floor Lamp,Furniture & Decor,193.6,9.33,False
+ORD-1054,2,AA216BFD,Planter Pot,Garden Tools,120.21,16.09,False
+ORD-1054,3,D3686725,Air Purifier,Home Appliances,69.99,19.33,False
+ORD-1055,1,4C6F3654,Soil Meter,Garden Tools,51.91,18.59,False
+ORD-1056,1,DB9A1260,Soil Meter,Garden Tools,228.76,5.99,False
+ORD-1057,1,D43E2A71,Water Bottle,Sports & Leisure,149.27,12.13,False
+ORD-1057,2,D3D4DB93,Cast Iron Pan,Kitchen Accessories,124.21,13.62,False
+ORD-1058,1,2924631A,Air Purifier,Home Appliances,82.36,18.16,False
+ORD-1059,1,23784AD8,Planter Pot,Garden Tools,104.02,18.67,False
+ORD-1060,1,075F2BF7,Cutting Board,Kitchen Accessories,179.31,7.74,True
+ORD-1061,1,06803283,Monitor Riser,Office Furniture,192.41,15.26,False
+ORD-1061,2,A2D81F20,Ergonomic Chair,Office Furniture,128.96,10.26,False
+ORD-1062,1,BA651D32,Planter Pot,Garden Tools,181.99,11.17,False
+ORD-1063,1,97E9CA96,Floor Lamp,Furniture & Decor,122.22,17.46,False
+ORD-1064,1,C5034B30,Mixing Bowls,Kitchen Accessories,112.92,6.14,False
+ORD-1065,1,3C9BBCAB,Wireless Charger,Electronics,80.6,10.43,False
+ORD-1065,2,40B981BB,Standing Desk,Office Furniture,167.04,5.42,False
+ORD-1065,3,92547D98,Floor Lamp,Furniture & Decor,198.92,7.13,False
+ORD-1066,1,491A3AE0,Cotton Duvet,Bed & Bath,105.17,16.44,False
+ORD-1067,1,73503EA1,Bluetooth Speaker,Electronics,22.22,6.61,False
+ORD-1068,1,574488DA,Robot Vacuum,Home Appliances,38.8,8.79,True
+ORD-1069,1,A615610A,Chef Knife Set,Kitchen Accessories,212.65,8.07,False
+ORD-1069,2,19684066,Bamboo Towels,Bed & Bath,19.34,7.17,False
+ORD-1070,1,1577757F,Monitor Riser,Office Furniture,47.83,12.5,False
+ORD-1071,1,3AD5A2EF,Chef Knife Set,Kitchen Accessories,190.84,16.44,False
+ORD-1072,1,DF784E7A,Garden Hose,Garden Tools,208.65,13.05,False
+ORD-1072,2,3F0F0394,Cutting Board,Kitchen Accessories,212.73,17.76,False
+ORD-1073,1,C57EED36,Weighted Blanket,Bed & Bath,159.15,6.6,False
+ORD-1073,2,547A8970,Foam Roller,Sports & Leisure,59.49,8.4,False
+ORD-1074,1,F2AD4DD3,Mixing Bowls,Kitchen Accessories,36.93,7.03,False
+ORD-1074,2,7F7C0BA1,Pruning Shears,Garden Tools,30.84,12.4,False
+ORD-1074,3,0D610EA8,Wireless Charger,Electronics,162.08,17.61,False
+ORD-1075,1,2DD9CBDF,Resistance Bands,Sports & Leisure,198.91,18.41,False
+ORD-1076,1,11DA618F,Standing Desk,Office Furniture,15.76,15.1,False
+ORD-1076,2,D4F7E097,Foam Roller,Sports & Leisure,126.41,15.14,False
+ORD-1076,3,309698B1,Foam Roller,Sports & Leisure,163.81,19.65,False
+ORD-1077,1,85E50BE5,Cotton Duvet,Bed & Bath,91.92,7.98,False
+ORD-1077,2,891B4247,Yoga Mat,Sports & Leisure,63.52,11.36,False
+ORD-1077,3,5D2520F5,Soil Meter,Garden Tools,90.26,14.99,False
+ORD-1078,1,ACCE4FCD,Garden Hose,Garden Tools,179.65,6.61,False
+ORD-1078,2,3F6449F4,LED Desk Lamp,Electronics,149.35,7.01,True
+ORD-1078,3,57547424,Cordless Vacuum,Home Appliances,121.09,5.39,False
+ORD-1079,1,CAA31014,Standing Desk,Office Furniture,78.69,14.34,False
+ORD-1079,2,1CDB1BA8,Bluetooth Speaker,Electronics,56.81,14.92,False
+ORD-1080,1,31921956,Ergonomic Chair,Office Furniture,219.7,5.46,False
+ORD-1081,1,67F5ADAB,Foam Roller,Sports & Leisure,81.25,10.64,False
+ORD-1081,2,3718FB45,Air Purifier,Home Appliances,133.79,17.9,False
+ORD-1081,3,8E7B145C,Weighted Blanket,Bed & Bath,106.45,9.68,False
+ORD-1082,1,EB6FB109,Bluetooth Speaker,Electronics,116.26,17.81,False
+ORD-1082,2,50E4CAFF,Water Bottle,Sports & Leisure,120.34,19.55,False
+ORD-1083,1,3DCEF679,Planter Pot,Garden Tools,26.32,13.85,False
+ORD-1084,1,667EBC6C,Electric Kettle,Home Appliances,95.57,11.41,False
+ORD-1085,1,5EF5975F,Air Purifier,Home Appliances,66.72,14.71,False
+ORD-1086,1,DC1A02FA,Cast Iron Pan,Kitchen Accessories,37.83,7.54,False
+ORD-1086,2,15BE781B,Robot Vacuum,Home Appliances,155.73,11.33,False
+ORD-1086,3,F9EFA486,Water Bottle,Sports & Leisure,17.42,12.04,True
+ORD-1087,1,E11BE999,Water Bottle,Sports & Leisure,137.23,17.11,False
+ORD-1088,1,D2F76973,Desk Organizer,Office Furniture,122.09,16.46,False
+ORD-1088,2,3064AFA1,Planter Pot,Garden Tools,223.36,8.02,False
+ORD-1089,1,A332DCC3,Cutting Board,Kitchen Accessories,75.35,5.7,False
+ORD-1089,2,DAE0A7D6,Resistance Bands,Sports & Leisure,148.52,19.36,False
+ORD-1089,3,D607BF82,Cast Iron Pan,Kitchen Accessories,72.31,13.49,False
+ORD-1090,1,DFE72977,Ergonomic Chair,Office Furniture,154.37,9.52,False
+ORD-1091,1,CA7460E9,Standing Desk,Office Furniture,102.9,8.76,False
+ORD-1092,1,F25FBA87,Cotton Duvet,Bed & Bath,149.23,12.73,False
+ORD-1092,2,FC496444,LED Desk Lamp,Electronics,156.38,17.35,False
+ORD-1093,1,3213F83C,Yoga Mat,Sports & Leisure,126.32,10.45,False
+ORD-1094,1,0EFE61C7,Soil Meter,Garden Tools,102.02,17.89,False
+ORD-1095,1,A6F47CD7,Water Bottle,Sports & Leisure,191.74,14.68,False
+ORD-1095,2,919B6BAC,Wall Mirror,Furniture & Decor,64.74,7.24,True
+ORD-1096,1,96E9242C,Soil Meter,Garden Tools,118.32,19.86,False
+ORD-1096,2,09756C68,Air Purifier,Home Appliances,47.57,7.04,False
+ORD-1097,1,0D0205E3,Cotton Duvet,Bed & Bath,222.13,12.28,True
+ORD-1097,2,D1BC7942,Cast Iron Pan,Kitchen Accessories,143.54,18.0,False
+ORD-1098,1,69BB2174,Ergonomic Chair,Office Furniture,99.12,17.59,False
+ORD-1099,1,1E187BB1,Cast Iron Pan,Kitchen Accessories,120.72,6.34,False
+ORD-1100,1,58190813,Monitor Riser,Office Furniture,193.61,16.05,False
+ORD-1100,2,1FACAAA1,Wall Mirror,Furniture & Decor,60.3,6.59,False
+ORD-1101,1,8854945F,Water Bottle,Sports & Leisure,200.24,5.83,False
+ORD-1102,1,0701A046,Cast Iron Pan,Kitchen Accessories,131.42,12.11,False
+ORD-1102,2,EAE07576,Garden Hose,Garden Tools,91.76,15.73,False
+ORD-1103,1,7F954696,Cordless Vacuum,Home Appliances,162.87,16.82,False
+ORD-1104,1,972B814B,Planter Pot,Garden Tools,208.98,15.27,False
+ORD-1105,1,1C209257,Bluetooth Speaker,Electronics,14.7,19.4,False
+ORD-1106,1,6C9A848D,Pruning Shears,Garden Tools,216.17,16.34,False
+ORD-1106,2,76353F27,Weighted Blanket,Bed & Bath,149.99,18.18,False
+ORD-1106,3,DD7AAE65,Yoga Mat,Sports & Leisure,72.46,6.19,False
+ORD-1107,1,80E9485E,Water Bottle,Sports & Leisure,168.66,18.14,False
+ORD-1108,1,CA385B3D,Pruning Shears,Garden Tools,89.34,14.02,False
+ORD-1108,2,76E8BC81,Desk Organizer,Office Furniture,163.85,16.42,False
+ORD-1109,1,C1047E91,LED Desk Lamp,Electronics,13.66,7.99,False
+ORD-1110,1,F68C189E,Cutting Board,Kitchen Accessories,67.15,15.69,False
+ORD-1111,1,543E3B41,Weighted Blanket,Bed & Bath,184.99,9.78,False
+ORD-1111,2,71200CB5,Bamboo Towels,Bed & Bath,50.63,13.89,False
+ORD-1112,1,D8FD3B23,Mixing Bowls,Kitchen Accessories,92.76,10.89,False
+ORD-1113,1,D6EE4E71,Side Table,Furniture & Decor,218.73,18.84,False
+ORD-1113,2,1099020B,Side Table,Furniture & Decor,224.38,7.96,False
+ORD-1114,1,97CFA361,Foam Roller,Sports & Leisure,143.28,7.23,False
+ORD-1115,1,6E9F3836,Chef Knife Set,Kitchen Accessories,168.92,11.52,False
+ORD-1116,1,CB247A4C,Smart Plug,Electronics,61.7,8.04,False
+ORD-1117,1,F3112D6C,Planter Pot,Garden Tools,174.97,10.72,False
+ORD-1117,2,129BD879,Floor Lamp,Furniture & Decor,228.95,9.23,False
+ORD-1118,1,B1908E9B,Resistance Bands,Sports & Leisure,19.23,19.63,False
+ORD-1119,1,BD66A716,Bookshelf,Furniture & Decor,139.48,14.7,True
+ORD-1120,1,207FC879,Desk Organizer,Office Furniture,162.04,15.69,False
+ORD-1121,1,83D0C561,Pruning Shears,Garden Tools,33.67,5.87,False
+ORD-1121,2,1A392D3D,Wall Mirror,Furniture & Decor,210.08,19.94,False
+ORD-1122,1,505A68BC,Cordless Vacuum,Home Appliances,68.03,14.28,False
+ORD-1122,2,8AA95B71,Water Bottle,Sports & Leisure,41.69,18.37,True
+ORD-1122,3,9CF19794,Bamboo Towels,Bed & Bath,49.85,12.38,False
+ORD-1123,1,68629116,Cast Iron Pan,Kitchen Accessories,167.12,11.48,False
+ORD-1124,1,E8D500BF,Weighted Blanket,Bed & Bath,202.14,17.51,False
+ORD-1125,1,4D953632,Planter Pot,Garden Tools,146.0,16.41,False
+ORD-1125,2,EF9C9886,Desk Organizer,Office Furniture,206.7,9.72,False
+ORD-1125,3,9FF64CFD,Weighted Blanket,Bed & Bath,24.54,7.22,False
+ORD-1126,1,1C00FD5D,Garden Hose,Garden Tools,166.18,11.54,False
+ORD-1127,1,1833EA80,Robot Vacuum,Home Appliances,90.35,15.63,False
+ORD-1127,2,DD2CBBAC,Smart Plug,Electronics,196.54,17.99,False
+ORD-1127,3,37C7EE57,Cutting Board,Kitchen Accessories,201.38,7.7,False
+ORD-1128,1,60ECB86B,Garden Hose,Garden Tools,139.62,19.56,False
+ORD-1129,1,DE8A0332,Yoga Mat,Sports & Leisure,66.41,12.46,True
+ORD-1130,1,564589B5,Pruning Shears,Garden Tools,98.52,13.85,False
+ORD-1131,1,8B2C21D8,Cotton Duvet,Bed & Bath,30.58,17.45,False
+ORD-1131,2,9D7A8964,Wireless Charger,Electronics,141.93,5.08,False
+ORD-1132,1,6B3EF5B2,Wireless Charger,Electronics,218.58,19.99,False
+ORD-1132,2,16FE383D,Memory Foam Pillow,Bed & Bath,200.32,17.01,False
+ORD-1133,1,4C0A0D56,Mixing Bowls,Kitchen Accessories,33.07,8.82,False
+ORD-1133,2,AAC6B238,Yoga Mat,Sports & Leisure,17.44,8.11,False
+ORD-1134,1,22885495,Cotton Duvet,Bed & Bath,77.77,17.01,False
+ORD-1135,1,528BC262,Bamboo Towels,Bed & Bath,157.41,17.47,False
+ORD-1135,2,17F80204,Bluetooth Speaker,Electronics,205.12,12.14,False
+ORD-1135,3,58E369FC,Yoga Mat,Sports & Leisure,177.15,17.15,False
+ORD-1136,1,C801EEC3,Yoga Mat,Sports & Leisure,21.77,10.12,False
+ORD-1137,1,A69BD3AD,Weighted Blanket,Bed & Bath,127.41,14.7,True
+ORD-1138,1,DFFD9D0D,Mixing Bowls,Kitchen Accessories,78.18,19.75,False
+ORD-1139,1,4D139149,Wall Mirror,Furniture & Decor,77.11,5.71,True
+ORD-1140,1,84A55EEF,Mixing Bowls,Kitchen Accessories,102.62,11.96,False
+ORD-1141,1,298CE5B8,Monitor Riser,Office Furniture,140.06,16.52,True
+ORD-1141,2,AC1E0F19,LED Desk Lamp,Electronics,183.59,17.63,True
+ORD-1142,1,1FB41EF1,Planter Pot,Garden Tools,140.41,11.81,False
+ORD-1143,1,E1446788,Planter Pot,Garden Tools,222.77,18.06,False
+ORD-1143,2,0D12C3C9,Cotton Duvet,Bed & Bath,175.1,14.05,False
+ORD-1144,1,02C99E1C,Cordless Vacuum,Home Appliances,98.69,5.19,False
+ORD-1145,1,F591A925,Foam Roller,Sports & Leisure,78.7,17.19,False
+ORD-1146,1,43DCD4BA,Water Bottle,Sports & Leisure,32.01,7.02,False
+ORD-1146,2,4225234B,Air Purifier,Home Appliances,199.4,8.13,False
+ORD-1147,1,38454FFC,Resistance Bands,Sports & Leisure,31.67,16.54,False
+ORD-1147,2,D18C07F0,Yoga Mat,Sports & Leisure,38.26,18.53,False
+ORD-1148,1,1DF6F1CA,Bluetooth Speaker,Electronics,17.25,11.73,False
+ORD-1149,1,B769FA72,Yoga Mat,Sports & Leisure,85.44,6.53,False
+ORD-1150,1,336AC478,Foam Roller,Sports & Leisure,172.94,13.93,False
+ORD-1151,1,ACFAC5B9,Bluetooth Speaker,Electronics,118.47,13.86,False
+ORD-1152,1,F44374B8,LED Desk Lamp,Electronics,167.99,12.91,False
+ORD-1152,2,D3535A8E,Ergonomic Chair,Office Furniture,71.11,14.71,False
+ORD-1153,1,DAA332A7,Desk Organizer,Office Furniture,164.35,5.3,False
+ORD-1154,1,104109D0,Desk Organizer,Office Furniture,63.36,8.29,False
+ORD-1155,1,36E43951,LED Desk Lamp,Electronics,204.64,15.83,False
+ORD-1156,1,B6BC0D37,Desk Organizer,Office Furniture,186.54,17.66,False
+ORD-1157,1,6692CF76,Mixing Bowls,Kitchen Accessories,41.0,7.98,False
+ORD-1158,1,343E2817,Foam Roller,Sports & Leisure,78.88,8.13,True
+ORD-1159,1,06043C0A,Planter Pot,Garden Tools,159.88,7.61,False
+ORD-1160,1,21FE5944,Cast Iron Pan,Kitchen Accessories,106.43,14.25,False
+ORD-1161,1,7E5E7BC3,Planter Pot,Garden Tools,183.31,16.53,False
+ORD-1162,1,58D84926,Cotton Duvet,Bed & Bath,166.28,18.89,False
+ORD-1163,1,CFCF9613,Chef Knife Set,Kitchen Accessories,182.61,14.13,False
+ORD-1164,1,9EA288F3,Cordless Vacuum,Home Appliances,49.24,6.76,False
+ORD-1165,1,899C5962,Soil Meter,Garden Tools,178.34,12.47,False
+ORD-1166,1,47FAEC48,Monitor Riser,Office Furniture,190.75,6.83,False
+ORD-1167,1,0B5662E5,Air Purifier,Home Appliances,194.14,12.09,False
+ORD-1167,2,9BD52D9B,Cotton Duvet,Bed & Bath,70.72,15.72,False
+ORD-1167,3,7822914D,Floor Lamp,Furniture & Decor,176.44,12.93,False
+ORD-1168,1,32D5F3DF,Foam Roller,Sports & Leisure,212.2,18.46,False
+ORD-1169,1,C65FF5E2,Ergonomic Chair,Office Furniture,109.03,16.54,False
+ORD-1170,1,55FD7197,Chef Knife Set,Kitchen Accessories,86.4,11.01,False
+ORD-1171,1,D5338E87,Yoga Mat,Sports & Leisure,156.25,14.61,False
+ORD-1172,1,557685C1,Soil Meter,Garden Tools,100.22,15.2,False
+ORD-1173,1,15F3D42B,Monitor Riser,Office Furniture,14.7,9.19,False
+ORD-1174,1,C96D9311,Foam Roller,Sports & Leisure,152.71,18.3,False
+ORD-1174,2,92106A0C,Wireless Charger,Electronics,205.62,16.71,False
+ORD-1174,3,18F5BBCD,Bookshelf,Furniture & Decor,31.28,13.05,False
+ORD-1175,1,475CE6A5,Bamboo Towels,Bed & Bath,59.37,12.67,False
+ORD-1175,2,4B5374DA,Standing Desk,Office Furniture,18.07,18.34,False
+ORD-1176,1,161FE41A,Soil Meter,Garden Tools,227.16,6.65,True
+ORD-1177,1,907C96E9,Ergonomic Chair,Office Furniture,23.35,14.75,False
+ORD-1178,1,4909230F,Robot Vacuum,Home Appliances,86.55,8.53,False
+ORD-1179,1,6A430054,Bookshelf,Furniture & Decor,77.92,14.99,False
+ORD-1179,2,B38DA44E,Weighted Blanket,Bed & Bath,125.76,8.7,False
+ORD-1180,1,E5609C7C,Desk Organizer,Office Furniture,34.25,15.66,False
+ORD-1180,2,F06DBF04,Chef Knife Set,Kitchen Accessories,26.49,18.32,False
+ORD-1181,1,41AAE0E6,Desk Organizer,Office Furniture,140.64,12.77,False
+ORD-1182,1,474D5CAC,Bluetooth Speaker,Electronics,229.23,15.33,False
+ORD-1183,1,BA4412C3,Resistance Bands,Sports & Leisure,44.31,6.9,False
+ORD-1183,2,3D8B2BF7,Cotton Duvet,Bed & Bath,163.69,11.82,True
+ORD-1184,1,25AF0BF8,Ergonomic Chair,Office Furniture,143.54,11.12,False
+ORD-1185,1,497987DE,Air Purifier,Home Appliances,38.54,9.56,False
+ORD-1186,1,0A4685D8,Air Purifier,Home Appliances,43.83,13.83,True
+ORD-1187,1,D399972F,Garden Hose,Garden Tools,52.72,16.08,True
+ORD-1187,2,ADE2BE92,Ergonomic Chair,Office Furniture,201.87,11.25,False
+ORD-1187,3,72010884,Wireless Charger,Electronics,182.54,12.12,False
+ORD-1188,1,34E092A2,Weighted Blanket,Bed & Bath,178.27,15.0,False
+ORD-1188,2,463071E2,Ergonomic Chair,Office Furniture,186.55,14.96,False
+ORD-1189,1,4985BE14,Water Bottle,Sports & Leisure,130.39,19.36,False
+ORD-1190,1,D4F3AB61,Cutting Board,Kitchen Accessories,166.45,13.57,False
+ORD-1190,2,7A5F4534,Pruning Shears,Garden Tools,152.72,6.27,False
+ORD-1191,1,ED9FB545,Air Purifier,Home Appliances,175.86,12.53,True
+ORD-1192,1,2F3D4E7F,Cotton Duvet,Bed & Bath,72.66,8.08,False
+ORD-1192,2,1A9CEF2A,Smart Plug,Electronics,188.09,14.09,False
+ORD-1193,1,1BEC2BFA,Electric Kettle,Home Appliances,107.82,11.21,False
+ORD-1194,1,2842420E,Pruning Shears,Garden Tools,37.87,6.48,False
+ORD-1195,1,57A6CFEC,Pruning Shears,Garden Tools,46.46,19.27,False
+ORD-1196,1,D89597CD,Standing Desk,Office Furniture,18.89,5.87,False
+ORD-1197,1,D1EFA57E,Water Bottle,Sports & Leisure,68.96,19.11,False
+ORD-1198,1,B5D131EF,Floor Lamp,Furniture & Decor,119.97,16.28,False
+ORD-1199,1,C64FB19D,Electric Kettle,Home Appliances,113.86,11.1,False
+ORD-1200,1,C66DBB38,Side Table,Furniture & Decor,71.4,19.44,False
+ORD-1201,1,0296B757,Bamboo Towels,Bed & Bath,136.3,11.68,False
+ORD-1202,1,8769383D,Bamboo Towels,Bed & Bath,130.27,7.51,False
+ORD-1203,1,6F027218,Smart Plug,Electronics,13.21,11.96,False
+ORD-1203,2,174F2DE4,Garden Hose,Garden Tools,13.11,18.99,False
+ORD-1203,3,BA6AB349,Soil Meter,Garden Tools,229.83,17.63,False
+ORD-1204,1,683C1C86,Pruning Shears,Garden Tools,48.02,13.0,True
+ORD-1204,2,90963DC1,Mixing Bowls,Kitchen Accessories,164.55,17.45,False
+ORD-1205,1,29E7E082,Resistance Bands,Sports & Leisure,145.46,19.35,False
+ORD-1205,2,007F43B2,Monitor Riser,Office Furniture,225.57,15.61,False
+ORD-1205,3,BA81D4E1,Monitor Riser,Office Furniture,58.7,19.37,False
+ORD-1206,1,B3F3074A,Cotton Duvet,Bed & Bath,145.1,5.05,True
+ORD-1206,2,F16DFF32,Weighted Blanket,Bed & Bath,133.6,15.44,False
+ORD-1206,3,4C593D61,Yoga Mat,Sports & Leisure,183.84,14.73,True
+ORD-1207,1,F10BF2C7,Smart Plug,Electronics,89.59,17.18,False
+ORD-1208,1,E82C6AD5,Cotton Duvet,Bed & Bath,40.06,10.55,False
+ORD-1209,1,913FB262,Electric Kettle,Home Appliances,160.67,15.63,False
+ORD-1210,1,EE114E13,Garden Hose,Garden Tools,63.82,12.4,False
+ORD-1210,2,99A26D27,Soil Meter,Garden Tools,209.27,15.59,False
+ORD-1211,1,EE00E71E,Yoga Mat,Sports & Leisure,201.76,13.53,False
+ORD-1212,1,F0DA37F3,Cotton Duvet,Bed & Bath,140.62,16.18,False
+ORD-1213,1,A605982C,Bookshelf,Furniture & Decor,54.62,15.16,False
+ORD-1213,2,EADFDAB6,Soil Meter,Garden Tools,13.41,11.4,False
+ORD-1213,3,E852D66F,Electric Kettle,Home Appliances,106.85,19.92,False
+ORD-1214,1,C0CB69A0,Bluetooth Speaker,Electronics,91.43,16.38,False
+ORD-1214,2,D459451B,Side Table,Furniture & Decor,73.3,11.29,False
+ORD-1215,1,04082BE1,Bookshelf,Furniture & Decor,30.74,13.57,True
+ORD-1216,1,ADD1C393,Yoga Mat,Sports & Leisure,211.98,7.94,False
+ORD-1216,2,5083563C,Chef Knife Set,Kitchen Accessories,19.04,11.47,True
+ORD-1217,1,44F5CDA5,Monitor Riser,Office Furniture,66.62,12.09,False
+ORD-1217,2,231F4EAB,Electric Kettle,Home Appliances,125.76,8.54,True
+ORD-1218,1,CF9E02F8,Smart Plug,Electronics,148.69,13.67,True
+ORD-1218,2,5393A4C5,Cordless Vacuum,Home Appliances,94.88,18.34,False
+ORD-1219,1,A61CBCEF,Robot Vacuum,Home Appliances,24.88,14.15,False
+ORD-1219,2,602C4606,Chef Knife Set,Kitchen Accessories,134.35,9.41,False
+ORD-1220,1,61CE6747,Resistance Bands,Sports & Leisure,200.6,16.8,False
+ORD-1221,1,357D2C0A,Bluetooth Speaker,Electronics,203.94,14.28,False
+ORD-1222,1,E9D02F1F,Robot Vacuum,Home Appliances,125.23,13.81,False
+ORD-1222,2,A624FCEC,Cordless Vacuum,Home Appliances,141.65,17.6,False
+ORD-1222,3,D4823F7F,Bamboo Towels,Bed & Bath,90.11,12.21,False
+ORD-1223,1,31F07F7B,Cotton Duvet,Bed & Bath,26.12,9.67,False
+ORD-1224,1,9DBB9DF4,Monitor Riser,Office Furniture,139.65,13.11,False
+ORD-1224,2,BDE8FBE6,Wireless Charger,Electronics,143.91,9.36,False
+ORD-1224,3,02C635BA,Cotton Duvet,Bed & Bath,64.5,17.28,False
+ORD-1225,1,6A9695E9,Standing Desk,Office Furniture,224.89,14.6,False
+ORD-1226,1,9A015371,Wall Mirror,Furniture & Decor,163.76,19.72,False
+ORD-1227,1,74A1DDA5,Monitor Riser,Office Furniture,103.85,7.42,False
+ORD-1228,1,FB6BCA14,Robot Vacuum,Home Appliances,60.6,5.05,False
+ORD-1228,2,112EC2AE,Wall Mirror,Furniture & Decor,148.38,8.58,False
+ORD-1229,1,8F217BF5,Desk Organizer,Office Furniture,57.54,7.75,False
+ORD-1229,2,5D0C7B2D,Ergonomic Chair,Office Furniture,28.99,5.44,False
+ORD-1229,3,12C94526,Soil Meter,Garden Tools,55.18,13.78,False
+ORD-1230,1,9E829D00,Air Purifier,Home Appliances,55.92,7.6,False
+ORD-1231,1,360F0661,Standing Desk,Office Furniture,51.73,5.31,False
+ORD-1231,2,8583043F,Chef Knife Set,Kitchen Accessories,193.41,7.05,False
+ORD-1232,1,2E7F4F46,Standing Desk,Office Furniture,79.19,8.59,False
+ORD-1232,2,E3DE4739,Weighted Blanket,Bed & Bath,203.6,5.97,False
+ORD-1232,3,AAF73091,Memory Foam Pillow,Bed & Bath,54.58,10.66,False
+ORD-1233,1,59A58C61,Side Table,Furniture & Decor,178.58,13.8,False
+ORD-1233,2,660CFA9C,Garden Hose,Garden Tools,84.1,5.79,False
+ORD-1234,1,036D7CC1,LED Desk Lamp,Electronics,170.81,16.76,False
+ORD-1234,2,6CD437D2,Cutting Board,Kitchen Accessories,123.36,16.26,False
+ORD-1235,1,CD342468,Bluetooth Speaker,Electronics,51.83,15.68,False
+ORD-1236,1,EAD2CA73,Bluetooth Speaker,Electronics,71.22,11.0,False
+ORD-1237,1,0E7BBE2D,Air Purifier,Home Appliances,60.63,8.04,False
+ORD-1237,2,FD14556A,Resistance Bands,Sports & Leisure,79.39,18.32,False
+ORD-1238,1,9A5A8285,Monitor Riser,Office Furniture,132.46,7.0,True
+ORD-1238,2,5A92830A,Wireless Charger,Electronics,62.94,5.61,False
+ORD-1238,3,35A04842,Desk Organizer,Office Furniture,110.89,11.48,False
+ORD-1239,1,A6FF767F,Soil Meter,Garden Tools,18.35,11.62,False
+ORD-1240,1,873EF722,Cast Iron Pan,Kitchen Accessories,195.83,12.68,False
+ORD-1241,1,563B44C1,Side Table,Furniture & Decor,38.72,10.39,False
+ORD-1241,2,F4515F1D,Standing Desk,Office Furniture,159.49,8.74,False
+ORD-1242,1,B60A6B6A,Garden Hose,Garden Tools,166.11,19.96,False
+ORD-1242,2,28B749B2,Pruning Shears,Garden Tools,180.1,9.22,False
+ORD-1243,1,05265609,Yoga Mat,Sports & Leisure,115.41,12.68,False
+ORD-1243,2,6A5EC1C0,Weighted Blanket,Bed & Bath,62.37,15.84,False
+ORD-1243,3,CC5A4DC6,Wall Mirror,Furniture & Decor,169.77,11.91,False
+ORD-1244,1,7808C4AF,Wall Mirror,Furniture & Decor,180.11,15.46,False
+ORD-1245,1,15C60B78,Electric Kettle,Home Appliances,43.14,18.1,False
+ORD-1246,1,2F8C6F9E,Wireless Charger,Electronics,86.73,11.28,False
+ORD-1246,2,C8CD6FD7,Water Bottle,Sports & Leisure,83.75,5.34,False
+ORD-1247,1,4BD8E986,Bamboo Towels,Bed & Bath,136.29,16.98,False
+ORD-1247,2,42EFA084,Foam Roller,Sports & Leisure,57.3,10.85,False
+ORD-1247,3,6904D657,Wall Mirror,Furniture & Decor,36.56,13.53,False
+ORD-1248,1,2C90B7F9,Cutting Board,Kitchen Accessories,35.63,13.28,True
+ORD-1248,2,5A4D6D92,Smart Plug,Electronics,53.5,6.03,False
+ORD-1248,3,E648E316,Garden Hose,Garden Tools,63.56,14.88,True
+ORD-1249,1,38BF8B1C,Air Purifier,Home Appliances,83.9,18.64,False
+ORD-1250,1,F8EC343B,Weighted Blanket,Bed & Bath,116.77,6.02,False
+ORD-1250,2,EB720698,Floor Lamp,Furniture & Decor,201.88,9.64,False
+ORD-1250,3,4F165FFB,LED Desk Lamp,Electronics,143.99,19.08,False
+ORD-1251,1,C383DD4E,Wireless Charger,Electronics,56.76,19.86,False
+ORD-1252,1,475A5E65,Bookshelf,Furniture & Decor,210.53,18.18,False
+ORD-1252,2,D67B087F,Cordless Vacuum,Home Appliances,75.47,18.2,False
+ORD-1253,1,63DF0A14,Soil Meter,Garden Tools,146.02,17.14,False
+ORD-1253,2,5582F4BD,Floor Lamp,Furniture & Decor,208.28,15.99,False
+ORD-1254,1,F399E34E,Cotton Duvet,Bed & Bath,98.39,19.18,False
+ORD-1254,2,4C646EA8,Bamboo Towels,Bed & Bath,204.5,13.06,False
+ORD-1254,3,C90D4DC3,Cutting Board,Kitchen Accessories,210.19,11.16,False
+ORD-1255,1,4431116B,Ergonomic Chair,Office Furniture,176.91,12.56,False
+ORD-1256,1,BB3D111D,Bamboo Towels,Bed & Bath,57.99,5.66,True
+ORD-1257,1,6E8576B5,Bluetooth Speaker,Electronics,87.56,10.98,False
+ORD-1257,2,0F89EB9D,Cordless Vacuum,Home Appliances,67.37,15.63,False
+ORD-1258,1,1E4B4D12,Bluetooth Speaker,Electronics,113.1,6.23,False
+ORD-1258,2,A3DD8984,LED Desk Lamp,Electronics,115.15,9.18,False
+ORD-1259,1,78B632DF,Cutting Board,Kitchen Accessories,76.82,13.01,False
+ORD-1259,2,D650221D,Chef Knife Set,Kitchen Accessories,159.98,7.29,False
+ORD-1260,1,C0DF541B,Air Purifier,Home Appliances,108.92,5.71,False
+ORD-1261,1,A9C9443F,Mixing Bowls,Kitchen Accessories,162.8,11.65,False
+ORD-1262,1,45C89E5A,Resistance Bands,Sports & Leisure,214.54,10.61,False
+ORD-1263,1,24EFA2A7,Yoga Mat,Sports & Leisure,227.67,10.05,False
+ORD-1264,1,87270019,Side Table,Furniture & Decor,185.92,17.45,False
+ORD-1264,2,2B832D4F,Cotton Duvet,Bed & Bath,103.19,6.61,False
+ORD-1265,1,71995415,Floor Lamp,Furniture & Decor,215.74,10.92,False
+ORD-1266,1,7A5C4812,Cast Iron Pan,Kitchen Accessories,83.16,5.21,False
+ORD-1267,1,A8F5B62B,Wall Mirror,Furniture & Decor,60.75,14.86,False
+ORD-1268,1,B34358B2,Cordless Vacuum,Home Appliances,205.13,11.16,False
+ORD-1268,2,60DC2790,Smart Plug,Electronics,167.61,16.86,False
+ORD-1269,1,87AC3988,Pruning Shears,Garden Tools,143.16,19.71,False
+ORD-1270,1,63BF7EEE,Bamboo Towels,Bed & Bath,51.04,16.42,False
+ORD-1270,2,D70D924F,Smart Plug,Electronics,85.71,14.12,False
+ORD-1271,1,A7C3E72C,Side Table,Furniture & Decor,63.47,14.24,False
+ORD-1272,1,547A067C,Resistance Bands,Sports & Leisure,147.48,5.89,False
+ORD-1273,1,6059E050,Weighted Blanket,Bed & Bath,57.34,5.56,False
+ORD-1274,1,76E8A7D5,Wireless Charger,Electronics,42.13,9.75,False
+ORD-1274,2,9A28A521,Robot Vacuum,Home Appliances,153.62,9.32,True
+ORD-1275,1,49E0A206,Monitor Riser,Office Furniture,65.56,13.08,False
+ORD-1275,2,FCC427ED,Floor Lamp,Furniture & Decor,144.94,10.71,False
+ORD-1276,1,6808B9EF,Cordless Vacuum,Home Appliances,201.75,6.04,False
+ORD-1277,1,050388E9,Memory Foam Pillow,Bed & Bath,40.24,7.6,False
+ORD-1277,2,32550E40,Floor Lamp,Furniture & Decor,123.1,11.38,False
+ORD-1278,1,B6D0590E,Floor Lamp,Furniture & Decor,105.0,14.08,False
+ORD-1279,1,61B7B51D,Bookshelf,Furniture & Decor,200.14,12.21,False
+ORD-1280,1,05D8E3F2,Resistance Bands,Sports & Leisure,115.13,11.33,False
+ORD-1281,1,6DE4BF6A,Weighted Blanket,Bed & Bath,17.29,10.71,False
+ORD-1282,1,D0083FD2,Garden Hose,Garden Tools,132.96,7.63,False
+ORD-1282,2,475725AB,Soil Meter,Garden Tools,74.45,13.42,False
+ORD-1283,1,39ECB73F,LED Desk Lamp,Electronics,46.57,7.83,True
+ORD-1284,1,9967239F,Desk Organizer,Office Furniture,100.78,11.23,False
+ORD-1285,1,C4EDD0A4,Foam Roller,Sports & Leisure,79.78,19.8,True
+ORD-1285,2,085C7234,Cordless Vacuum,Home Appliances,96.5,13.47,False
+ORD-1286,1,D93F4CD7,Planter Pot,Garden Tools,123.58,12.32,False
+ORD-1287,1,5A3741A2,Foam Roller,Sports & Leisure,172.63,8.63,True
+ORD-1287,2,2D51D48B,Ergonomic Chair,Office Furniture,164.34,14.67,False
+ORD-1288,1,270A9EE6,Bamboo Towels,Bed & Bath,66.68,13.67,False
+ORD-1289,1,747E5486,Chef Knife Set,Kitchen Accessories,152.82,18.74,False
+ORD-1290,1,788154CF,Cutting Board,Kitchen Accessories,203.08,7.48,False
+ORD-1290,2,B3408DA4,Soil Meter,Garden Tools,140.17,16.0,False
+ORD-1291,1,FEE1342A,Chef Knife Set,Kitchen Accessories,151.04,16.64,False
+ORD-1291,2,E5D46A22,Bamboo Towels,Bed & Bath,175.46,18.94,False
+ORD-1291,3,3BDF68AF,Pruning Shears,Garden Tools,227.17,17.24,True
+ORD-1292,1,FB5262CD,Foam Roller,Sports & Leisure,155.02,15.99,False
+ORD-1293,1,4D2EA815,Memory Foam Pillow,Bed & Bath,118.55,12.53,False
+ORD-1294,1,34DD43CB,Floor Lamp,Furniture & Decor,56.59,16.24,False
+ORD-1295,1,A03F16BD,Foam Roller,Sports & Leisure,149.01,14.36,False
+ORD-1296,1,5EA365B0,Pruning Shears,Garden Tools,94.96,9.14,False
+ORD-1297,1,1AC3405C,Bluetooth Speaker,Electronics,158.99,6.5,True
+ORD-1297,2,F5B5D36A,Cordless Vacuum,Home Appliances,34.0,12.83,True
+ORD-1298,1,E254BABD,Soil Meter,Garden Tools,115.68,10.05,False
+ORD-1298,2,8E533309,Monitor Riser,Office Furniture,229.87,17.24,False
+ORD-1299,1,3C148D08,Yoga Mat,Sports & Leisure,224.63,18.09,False
+ORD-1299,2,73EE71BE,Robot Vacuum,Home Appliances,201.9,11.02,False
+ORD-1300,1,A5C09F31,Cordless Vacuum,Home Appliances,201.56,9.18,False
+ORD-1300,2,DEF84BD0,Bookshelf,Furniture & Decor,111.06,15.28,False
+ORD-1300,3,2FA0D6FE,Resistance Bands,Sports & Leisure,13.67,14.56,False
+ORD-1301,1,17D58C7B,Ergonomic Chair,Office Furniture,223.39,16.03,False
+ORD-1302,1,9B6D8D6D,Bluetooth Speaker,Electronics,173.4,16.9,False
+ORD-1303,1,982312E0,Smart Plug,Electronics,172.33,9.4,False
+ORD-1303,2,29B687BF,Cotton Duvet,Bed & Bath,40.74,16.94,False
+ORD-1303,3,4AE51A85,LED Desk Lamp,Electronics,207.51,19.32,False
+ORD-1304,1,74F3A8D3,Floor Lamp,Furniture & Decor,49.97,19.15,False
+ORD-1305,1,392FF408,Air Purifier,Home Appliances,214.58,9.89,False
+ORD-1306,1,930278E8,Soil Meter,Garden Tools,219.47,15.05,False
+ORD-1307,1,F8F1FA51,Smart Plug,Electronics,185.62,9.98,False
+ORD-1307,2,DDEA56AC,Cast Iron Pan,Kitchen Accessories,94.8,15.75,False
+ORD-1307,3,CF440956,Foam Roller,Sports & Leisure,188.42,8.34,False
+ORD-1308,1,2D65530C,Cast Iron Pan,Kitchen Accessories,173.7,19.05,False
+ORD-1309,1,F44BB6FA,Standing Desk,Office Furniture,198.16,19.3,False
+ORD-1310,1,8D93FE13,Air Purifier,Home Appliances,196.81,19.69,False
+ORD-1311,1,E4336BA4,Memory Foam Pillow,Bed & Bath,36.12,5.13,False
+ORD-1312,1,6FCA9583,Garden Hose,Garden Tools,121.45,11.83,False
+ORD-1313,1,F5A7C9DE,Electric Kettle,Home Appliances,80.02,19.85,False
+ORD-1314,1,C13B9246,LED Desk Lamp,Electronics,120.41,15.55,False
+ORD-1314,2,4523F0C2,Standing Desk,Office Furniture,192.64,8.15,False
+ORD-1314,3,F0581BA3,Side Table,Furniture & Decor,213.32,16.63,False
+ORD-1315,1,34A694F1,Garden Hose,Garden Tools,228.05,13.21,False
+ORD-1315,2,EBE56A38,Wireless Charger,Electronics,177.41,10.86,False
+ORD-1316,1,ED7F4CE9,Wall Mirror,Furniture & Decor,34.11,9.84,False
+ORD-1317,1,C5B8FE41,Electric Kettle,Home Appliances,112.27,7.45,False
+ORD-1317,2,AC0F7034,Wireless Charger,Electronics,207.69,8.14,False
+ORD-1318,1,AD50A8DB,Electric Kettle,Home Appliances,170.52,13.63,False
+ORD-1319,1,EA1A2962,Weighted Blanket,Bed & Bath,219.23,11.4,False
+ORD-1319,2,16520424,Cordless Vacuum,Home Appliances,90.15,12.1,False
+ORD-1319,3,E55C226C,Cast Iron Pan,Kitchen Accessories,141.76,19.54,False
+ORD-1320,1,C3702D67,Cordless Vacuum,Home Appliances,65.26,12.32,False
+ORD-1321,1,07839802,Yoga Mat,Sports & Leisure,181.76,17.96,False
+ORD-1321,2,D1B33580,Soil Meter,Garden Tools,92.7,6.79,True
+ORD-1321,3,1FD055F6,LED Desk Lamp,Electronics,17.99,13.58,False
+ORD-1322,1,1AA8D783,Cutting Board,Kitchen Accessories,96.31,19.99,False
+ORD-1323,1,A6540A91,Cotton Duvet,Bed & Bath,83.56,15.7,False
+ORD-1324,1,F38968E4,Yoga Mat,Sports & Leisure,98.44,17.25,False
+ORD-1325,1,AA3100B4,Chef Knife Set,Kitchen Accessories,176.5,8.1,False
+ORD-1326,1,0F561A6B,Cotton Duvet,Bed & Bath,133.36,17.0,False
+ORD-1327,1,9EF5AB3C,Floor Lamp,Furniture & Decor,32.05,8.84,False
+ORD-1328,1,B5DC196F,Cast Iron Pan,Kitchen Accessories,91.88,13.16,False
+ORD-1329,1,56FF6380,Air Purifier,Home Appliances,78.22,19.18,False
+ORD-1329,2,A4875A1E,Soil Meter,Garden Tools,43.34,12.35,False
+ORD-1329,3,56C59FCE,Standing Desk,Office Furniture,162.27,14.93,True
+ORD-1330,1,87B10221,Bamboo Towels,Bed & Bath,198.76,8.22,False
+ORD-1331,1,6404822A,Monitor Riser,Office Furniture,40.87,14.32,True
+ORD-1332,1,9E1759F1,Resistance Bands,Sports & Leisure,99.8,6.24,False
+ORD-1333,1,AE578877,Memory Foam Pillow,Bed & Bath,28.3,15.98,False
+ORD-1334,1,3CE81FDC,Bookshelf,Furniture & Decor,135.3,14.71,False
+ORD-1334,2,F0B0C4C8,Weighted Blanket,Bed & Bath,191.27,9.74,False
+ORD-1335,1,3F821F91,Side Table,Furniture & Decor,71.61,12.96,False
+ORD-1336,1,FA2FC4F1,Ergonomic Chair,Office Furniture,91.72,9.99,False
+ORD-1337,1,3A6C039F,Bookshelf,Furniture & Decor,15.13,10.65,False
+ORD-1337,2,34B3CA67,Yoga Mat,Sports & Leisure,182.84,6.84,False
+ORD-1338,1,7717E40E,Smart Plug,Electronics,127.77,15.5,False
+ORD-1338,2,490AE59B,Pruning Shears,Garden Tools,207.55,7.55,False
+ORD-1339,1,C50FED62,Desk Organizer,Office Furniture,116.47,6.9,True
+ORD-1340,1,348CACD4,Memory Foam Pillow,Bed & Bath,43.95,13.5,False
+ORD-1341,1,4CE811FD,Standing Desk,Office Furniture,160.16,11.26,False
+ORD-1341,2,CCE9A376,Wireless Charger,Electronics,186.26,12.52,False
+ORD-1341,3,84A16FBF,Resistance Bands,Sports & Leisure,79.22,17.86,False
+ORD-1342,1,E1B029B2,Ergonomic Chair,Office Furniture,150.71,6.14,False
+ORD-1343,1,5866ACEA,Cordless Vacuum,Home Appliances,174.31,13.3,False
+ORD-1344,1,09EA46E0,Resistance Bands,Sports & Leisure,117.08,12.72,False
+ORD-1344,2,4726C3BF,Mixing Bowls,Kitchen Accessories,16.01,7.84,False
+ORD-1345,1,3EFA6437,Water Bottle,Sports & Leisure,65.99,16.07,False
+ORD-1346,1,38BEC69C,Robot Vacuum,Home Appliances,222.32,15.11,False
+ORD-1346,2,2EB63CE8,Floor Lamp,Furniture & Decor,29.29,17.58,False
+ORD-1347,1,4C055DA1,Foam Roller,Sports & Leisure,95.25,10.59,False
+ORD-1347,2,EDE5CC3D,Side Table,Furniture & Decor,75.93,12.24,False
+ORD-1347,3,70CD83A8,Robot Vacuum,Home Appliances,60.18,9.56,False
+ORD-1348,1,DB906908,Robot Vacuum,Home Appliances,206.66,17.72,True
+ORD-1348,2,685D3A72,Robot Vacuum,Home Appliances,84.29,10.3,True
+ORD-1349,1,18A9921D,Weighted Blanket,Bed & Bath,89.92,6.51,False
+ORD-1349,2,16850E8E,Cutting Board,Kitchen Accessories,102.12,18.69,True
+ORD-1349,3,32263A68,Garden Hose,Garden Tools,115.13,10.6,False
+ORD-1350,1,8E28DC0A,Pruning Shears,Garden Tools,227.68,14.83,False
+ORD-1350,2,9F193151,Bamboo Towels,Bed & Bath,175.11,5.08,False
+ORD-1350,3,DCD87975,Side Table,Furniture & Decor,54.13,5.59,False
+ORD-1351,1,B722FE73,Air Purifier,Home Appliances,157.56,19.22,False
+ORD-1351,2,AF27EDD4,Pruning Shears,Garden Tools,104.37,13.24,False
+ORD-1352,1,8355D2A0,Desk Organizer,Office Furniture,121.89,18.84,False
+ORD-1352,2,CA1F86F8,Resistance Bands,Sports & Leisure,36.8,6.61,True
+ORD-1353,1,81301F03,Air Purifier,Home Appliances,24.28,17.44,False
+ORD-1354,1,D22B37FB,Robot Vacuum,Home Appliances,117.19,9.22,True
+ORD-1354,2,7C297A2C,Resistance Bands,Sports & Leisure,147.01,15.93,False
+ORD-1355,1,4E216DC6,Cast Iron Pan,Kitchen Accessories,228.74,8.7,False
+ORD-1356,1,64D97CB4,Cutting Board,Kitchen Accessories,53.93,17.81,False
+ORD-1357,1,F4546407,Cutting Board,Kitchen Accessories,100.07,9.1,False
+ORD-1358,1,12C2B13D,Air Purifier,Home Appliances,32.72,5.75,False
+ORD-1359,1,FDB975DC,Floor Lamp,Furniture & Decor,85.94,12.18,False
+ORD-1360,1,D5D1C7F5,Pruning Shears,Garden Tools,71.42,9.2,False
+ORD-1360,2,6C9135CC,Resistance Bands,Sports & Leisure,82.4,5.7,True
+ORD-1361,1,68ACA105,Standing Desk,Office Furniture,74.9,9.19,False
+ORD-1362,1,068C0A06,Soil Meter,Garden Tools,91.89,9.56,True
+ORD-1363,1,D67087A3,Bamboo Towels,Bed & Bath,91.23,17.14,False
+ORD-1364,1,E8342057,Standing Desk,Office Furniture,154.09,8.14,False
+ORD-1364,2,BDDD0D9B,Cutting Board,Kitchen Accessories,149.6,14.02,True
+ORD-1365,1,F777404A,Floor Lamp,Furniture & Decor,165.9,18.87,True
+ORD-1365,2,30FDDE1E,Monitor Riser,Office Furniture,170.39,19.83,False
+ORD-1365,3,5D9EF67E,Cotton Duvet,Bed & Bath,40.73,11.26,False
+ORD-1366,1,E4DFC94A,Monitor Riser,Office Furniture,110.31,15.75,False
+ORD-1366,2,DFE1392F,Mixing Bowls,Kitchen Accessories,103.91,18.96,False
+ORD-1366,3,8788FD95,Air Purifier,Home Appliances,143.01,15.44,False
+ORD-1367,1,87FD5734,Air Purifier,Home Appliances,173.73,10.95,False
+ORD-1368,1,EE34C158,Cutting Board,Kitchen Accessories,107.98,12.63,False
+ORD-1368,2,8C15A1DB,Foam Roller,Sports & Leisure,144.76,8.09,True
+ORD-1369,1,9AD5A715,Robot Vacuum,Home Appliances,122.32,15.8,False
+ORD-1370,1,C04F2C8F,Planter Pot,Garden Tools,132.81,7.56,True
+ORD-1370,2,551EA974,Bookshelf,Furniture & Decor,21.47,7.21,False
+ORD-1371,1,37855A70,Pruning Shears,Garden Tools,152.39,8.73,False
+ORD-1371,2,FA3027CE,Chef Knife Set,Kitchen Accessories,153.75,14.48,False
+ORD-1371,3,FD4843A2,Ergonomic Chair,Office Furniture,218.36,18.25,False
+ORD-1372,1,9470B017,Planter Pot,Garden Tools,226.79,14.38,True
+ORD-1373,1,923CCFB9,Garden Hose,Garden Tools,68.54,5.22,False
+ORD-1374,1,3D4AC168,Mixing Bowls,Kitchen Accessories,218.2,8.85,False
+ORD-1374,2,F66299C1,Wall Mirror,Furniture & Decor,60.87,9.02,False
+ORD-1375,1,1C3FB942,Resistance Bands,Sports & Leisure,109.78,15.94,False
+ORD-1375,2,5862848D,Weighted Blanket,Bed & Bath,33.32,7.71,False
+ORD-1376,1,C32EB27A,Wall Mirror,Furniture & Decor,217.7,7.7,False
+ORD-1376,2,30697220,Garden Hose,Garden Tools,205.09,17.25,False
+ORD-1377,1,DDC6AB3B,Cotton Duvet,Bed & Bath,105.52,11.82,False
+ORD-1378,1,2B538B9D,Cotton Duvet,Bed & Bath,143.9,10.66,True
+ORD-1379,1,F72BEB38,Air Purifier,Home Appliances,66.88,6.24,False
+ORD-1379,2,FB254F76,Cordless Vacuum,Home Appliances,220.79,6.59,False
+ORD-1380,1,DEFE644A,Cutting Board,Kitchen Accessories,43.2,16.39,False
+ORD-1381,1,E7DF7AA8,Planter Pot,Garden Tools,116.91,8.65,False
+ORD-1381,2,125B00C0,Pruning Shears,Garden Tools,17.59,5.66,False
+ORD-1382,1,BC2198A3,Resistance Bands,Sports & Leisure,13.25,8.35,False
+ORD-1383,1,33FB017D,Monitor Riser,Office Furniture,62.01,18.17,False
+ORD-1384,1,30715C29,Mixing Bowls,Kitchen Accessories,49.78,6.64,False
+ORD-1384,2,48BB94C8,Planter Pot,Garden Tools,29.54,10.0,False
+ORD-1384,3,2DEFEACD,Chef Knife Set,Kitchen Accessories,144.17,7.66,False
+ORD-1385,1,AB57C2FC,Resistance Bands,Sports & Leisure,206.8,15.3,False
+ORD-1385,2,DA7E139F,Planter Pot,Garden Tools,202.95,9.06,False
+ORD-1386,1,8B159131,Pruning Shears,Garden Tools,184.17,17.92,False
+ORD-1387,1,1318C3BE,Bamboo Towels,Bed & Bath,45.06,11.69,False
+ORD-1387,2,4E0F8489,Smart Plug,Electronics,37.55,11.4,False
+ORD-1388,1,5857B627,Standing Desk,Office Furniture,52.46,10.77,False
+ORD-1389,1,9B0DD1A6,Water Bottle,Sports & Leisure,42.98,19.15,False
+ORD-1390,1,82E69E3C,Bluetooth Speaker,Electronics,128.54,17.31,False
+ORD-1391,1,A158423B,Resistance Bands,Sports & Leisure,165.56,8.52,True
+ORD-1391,2,0DBDADCB,Electric Kettle,Home Appliances,134.16,19.35,False
+ORD-1392,1,EFA7D103,Monitor Riser,Office Furniture,197.17,17.99,False
+ORD-1393,1,FA6DCAC9,Weighted Blanket,Bed & Bath,65.61,17.41,True
+ORD-1394,1,A6C002EB,Weighted Blanket,Bed & Bath,172.07,15.43,False
+ORD-1395,1,230F4E07,Chef Knife Set,Kitchen Accessories,116.46,13.9,False
+ORD-1396,1,3B832F98,Cotton Duvet,Bed & Bath,66.16,5.18,False
+ORD-1397,1,70F20140,Weighted Blanket,Bed & Bath,174.34,16.21,False
+ORD-1398,1,AA159B3F,Water Bottle,Sports & Leisure,109.33,14.66,True
+ORD-1399,1,683EDCD6,Cordless Vacuum,Home Appliances,144.1,7.59,False
+ORD-1400,1,F38D1C6D,Foam Roller,Sports & Leisure,133.24,17.43,False
+ORD-1401,1,89313318,Wall Mirror,Furniture & Decor,215.11,9.07,True
+ORD-1402,1,18D3F7D3,Memory Foam Pillow,Bed & Bath,99.88,5.83,False
+ORD-1403,1,7410C8E7,Mixing Bowls,Kitchen Accessories,116.59,14.78,False
+ORD-1403,2,30102324,Resistance Bands,Sports & Leisure,24.85,10.56,False
+ORD-1404,1,1A123913,Chef Knife Set,Kitchen Accessories,91.7,16.67,False
+ORD-1405,1,4BC99DC9,Cotton Duvet,Bed & Bath,27.16,13.95,False
+ORD-1406,1,7B58A8E7,Side Table,Furniture & Decor,65.14,6.27,False
+ORD-1407,1,7611A6D6,Smart Plug,Electronics,23.42,6.39,False
+ORD-1408,1,65E88A38,Soil Meter,Garden Tools,121.54,9.71,False
+ORD-1408,2,701B1D82,Standing Desk,Office Furniture,165.47,6.45,False
+ORD-1408,3,077E12EE,Cutting Board,Kitchen Accessories,18.13,16.93,False
+ORD-1409,1,5709AA85,Electric Kettle,Home Appliances,47.98,15.23,True
+ORD-1409,2,A74C30AB,Cutting Board,Kitchen Accessories,204.91,17.1,False
+ORD-1410,1,8323FDC7,Bamboo Towels,Bed & Bath,110.09,6.96,False
+ORD-1410,2,56490EB6,Yoga Mat,Sports & Leisure,206.27,16.6,False
+ORD-1411,1,A5117E3B,Cutting Board,Kitchen Accessories,136.01,19.91,True
+ORD-1412,1,D270604F,Pruning Shears,Garden Tools,121.25,11.81,False
+ORD-1413,1,F0954F07,Cast Iron Pan,Kitchen Accessories,138.09,10.29,True
+ORD-1414,1,01656528,Wireless Charger,Electronics,226.98,19.67,False
+ORD-1414,2,9595464B,LED Desk Lamp,Electronics,216.93,19.57,False
+ORD-1415,1,121AE6DC,Soil Meter,Garden Tools,101.75,14.29,False
+ORD-1416,1,160F4FDC,Monitor Riser,Office Furniture,31.11,11.19,False
+ORD-1417,1,84717C99,Cordless Vacuum,Home Appliances,173.8,8.66,False
+ORD-1417,2,A43EEEED,Air Purifier,Home Appliances,198.1,9.35,False
+ORD-1418,1,EAE282E6,Cutting Board,Kitchen Accessories,97.23,11.92,True
+ORD-1419,1,F139D3FB,Smart Plug,Electronics,31.61,15.97,False
+ORD-1420,1,623AC89F,Resistance Bands,Sports & Leisure,100.12,5.96,False
+ORD-1420,2,85EDBC39,LED Desk Lamp,Electronics,165.39,12.13,False
+ORD-1420,3,191B881C,Air Purifier,Home Appliances,218.82,7.17,False
+ORD-1421,1,79EE23C6,Yoga Mat,Sports & Leisure,216.2,10.41,False
+ORD-1422,1,BB0FAF7B,Air Purifier,Home Appliances,201.35,19.28,False
+ORD-1423,1,ECFF607B,Cotton Duvet,Bed & Bath,43.75,9.1,True
+ORD-1424,1,8262009F,Bluetooth Speaker,Electronics,126.87,15.03,False
+ORD-1424,2,66DF7F5A,Cordless Vacuum,Home Appliances,207.2,11.42,False
+ORD-1425,1,42596614,Bookshelf,Furniture & Decor,217.39,12.21,False
+ORD-1426,1,74DD173B,Water Bottle,Sports & Leisure,211.02,13.54,False
+ORD-1426,2,03C9E3A2,Side Table,Furniture & Decor,169.82,13.67,False
+ORD-1427,1,5CDB9B6A,Ergonomic Chair,Office Furniture,45.65,11.87,False
+ORD-1427,2,773A6B15,Ergonomic Chair,Office Furniture,184.86,15.1,False
+ORD-1428,1,4B3188AA,LED Desk Lamp,Electronics,150.63,14.57,False
+ORD-1428,2,5E663756,Air Purifier,Home Appliances,174.81,7.8,False
+ORD-1429,1,6E464C36,Resistance Bands,Sports & Leisure,88.52,19.28,False
+ORD-1429,2,796643E7,Electric Kettle,Home Appliances,189.58,5.23,False
+ORD-1430,1,1584202B,Mixing Bowls,Kitchen Accessories,153.8,11.83,False
+ORD-1431,1,90484C92,Water Bottle,Sports & Leisure,37.59,7.63,False
+ORD-1432,1,BB3C7056,Weighted Blanket,Bed & Bath,95.79,17.67,False
+ORD-1433,1,D272E454,Pruning Shears,Garden Tools,228.98,17.08,False
+ORD-1434,1,2EADFF85,Yoga Mat,Sports & Leisure,120.71,16.27,False
+ORD-1434,2,302D4677,Mixing Bowls,Kitchen Accessories,122.22,17.08,False
+ORD-1435,1,92C9ED10,Floor Lamp,Furniture & Decor,181.57,13.26,False
+ORD-1435,2,F7C3ECAE,Smart Plug,Electronics,89.07,16.9,False
+ORD-1436,1,FA94C06B,Yoga Mat,Sports & Leisure,216.89,16.72,False
+ORD-1436,2,6ABEFEBE,Planter Pot,Garden Tools,79.7,18.53,False
+ORD-1436,3,C2D945BB,Side Table,Furniture & Decor,208.33,11.21,True
+ORD-1437,1,CB7FD4B1,Monitor Riser,Office Furniture,85.7,19.38,False
+ORD-1438,1,8E0E0B62,Resistance Bands,Sports & Leisure,146.72,10.89,True
+ORD-1439,1,53943925,Resistance Bands,Sports & Leisure,216.84,10.85,False
+ORD-1439,2,5A00B8E7,Water Bottle,Sports & Leisure,125.24,11.55,True
+ORD-1439,3,14C20F69,Cotton Duvet,Bed & Bath,150.01,16.75,False
+ORD-1440,1,543F4897,Garden Hose,Garden Tools,218.86,8.05,True
+ORD-1440,2,5164F28E,Yoga Mat,Sports & Leisure,149.46,13.89,True
+ORD-1441,1,BD67C2EA,Mixing Bowls,Kitchen Accessories,18.48,16.0,False
+ORD-1441,2,B7D77A54,Standing Desk,Office Furniture,65.01,18.46,False
+ORD-1442,1,4F5BA981,Wall Mirror,Furniture & Decor,180.16,14.88,False
+ORD-1443,1,201BB471,Cordless Vacuum,Home Appliances,37.06,18.9,False
+ORD-1443,2,C0FD3A6D,Bamboo Towels,Bed & Bath,69.84,7.7,True
+ORD-1443,3,77007999,Standing Desk,Office Furniture,97.79,12.36,True
+ORD-1444,1,44B492F0,Cutting Board,Kitchen Accessories,162.14,10.62,False
+ORD-1445,1,4BD03294,Memory Foam Pillow,Bed & Bath,77.82,18.54,False
+ORD-1445,2,324D8A93,Cordless Vacuum,Home Appliances,224.76,19.9,False
+ORD-1445,3,50103C34,Air Purifier,Home Appliances,126.21,8.81,False
+ORD-1446,1,C39D617A,Air Purifier,Home Appliances,59.93,10.46,False
+ORD-1446,2,F09869CE,Electric Kettle,Home Appliances,43.06,6.24,False
+ORD-1447,1,CAA4854D,Soil Meter,Garden Tools,56.22,6.37,False
+ORD-1448,1,941439F4,Bluetooth Speaker,Electronics,107.62,19.19,False
+ORD-1448,2,CC70B730,Garden Hose,Garden Tools,55.93,17.68,False
+ORD-1449,1,2F5C6428,Cast Iron Pan,Kitchen Accessories,48.94,8.08,False
+ORD-1449,2,C1EBA46E,Foam Roller,Sports & Leisure,104.94,16.2,False
+ORD-1449,3,7CC03A9D,Mixing Bowls,Kitchen Accessories,106.15,13.5,False
+ORD-1450,1,623555D5,Mixing Bowls,Kitchen Accessories,49.28,5.5,False
+ORD-1450,2,79A1D8E0,Water Bottle,Sports & Leisure,144.03,18.15,False
+ORD-1451,1,0FC8BDEE,Yoga Mat,Sports & Leisure,37.87,17.13,False
+ORD-1452,1,D5FA5691,Side Table,Furniture & Decor,59.68,10.56,False
+ORD-1453,1,7A45F494,Electric Kettle,Home Appliances,162.35,15.74,False
+ORD-1454,1,E75A35AE,Standing Desk,Office Furniture,134.87,10.77,False
+ORD-1455,1,4513F042,Cast Iron Pan,Kitchen Accessories,168.42,19.18,False
+ORD-1456,1,29DCC8F9,Foam Roller,Sports & Leisure,81.95,9.79,False
+ORD-1456,2,8F406974,Bluetooth Speaker,Electronics,23.14,9.11,False
+ORD-1457,1,436C142F,Desk Organizer,Office Furniture,64.29,5.31,True
+ORD-1458,1,40E74801,Robot Vacuum,Home Appliances,74.7,17.61,False
+ORD-1458,2,8685B26A,Electric Kettle,Home Appliances,152.91,6.03,True
+ORD-1459,1,4D8ED041,Planter Pot,Garden Tools,81.82,10.18,True
+ORD-1459,2,10B549B6,Desk Organizer,Office Furniture,145.86,10.89,False
+ORD-1460,1,E3FE21B9,Cast Iron Pan,Kitchen Accessories,216.47,6.53,False
+ORD-1461,1,F7AA4295,Cotton Duvet,Bed & Bath,228.59,17.91,False
+ORD-1461,2,2FB404BE,Floor Lamp,Furniture & Decor,32.09,15.85,False
+ORD-1462,1,54F2DDF0,Cordless Vacuum,Home Appliances,69.34,16.76,False
+ORD-1462,2,DB18E0E0,Pruning Shears,Garden Tools,70.22,15.31,False
+ORD-1463,1,27B2415B,Memory Foam Pillow,Bed & Bath,139.6,6.79,False
+ORD-1464,1,4EAE4D55,Foam Roller,Sports & Leisure,158.0,12.82,False
+ORD-1465,1,14B74474,Wireless Charger,Electronics,82.84,15.95,False
+ORD-1466,1,20803AE8,Pruning Shears,Garden Tools,89.59,17.52,False
+ORD-1467,1,A39A85E5,Side Table,Furniture & Decor,29.3,12.41,False
+ORD-1467,2,C3DD202B,Wall Mirror,Furniture & Decor,190.61,7.81,False
+ORD-1468,1,7AF9185B,Monitor Riser,Office Furniture,166.74,14.82,False
+ORD-1469,1,1967D4AC,Memory Foam Pillow,Bed & Bath,211.91,10.77,False
+ORD-1470,1,8E65568F,Wall Mirror,Furniture & Decor,53.78,9.16,False
+ORD-1470,2,2D44B4EC,Pruning Shears,Garden Tools,44.95,18.13,False
+ORD-1471,1,B43D9357,LED Desk Lamp,Electronics,70.88,12.13,False
+ORD-1472,1,4783567C,Chef Knife Set,Kitchen Accessories,89.9,8.17,False
+ORD-1473,1,EEFF35FF,Ergonomic Chair,Office Furniture,108.76,10.54,True
+ORD-1474,1,B6104F46,Resistance Bands,Sports & Leisure,76.79,11.03,False
+ORD-1475,1,10AB92DE,Bluetooth Speaker,Electronics,36.68,5.74,False
+ORD-1476,1,6EC2358E,Chef Knife Set,Kitchen Accessories,207.22,13.62,False
+ORD-1477,1,AEFA2253,Garden Hose,Garden Tools,204.51,15.48,False
+ORD-1478,1,537FA178,Bookshelf,Furniture & Decor,120.44,7.56,False
+ORD-1479,1,2505C232,Pruning Shears,Garden Tools,33.44,12.54,False
+ORD-1479,2,B55B6125,Wireless Charger,Electronics,198.0,15.31,False
+ORD-1480,1,7D5E91EF,Memory Foam Pillow,Bed & Bath,85.07,11.82,False
+ORD-1480,2,F3DB6F94,Bluetooth Speaker,Electronics,85.48,7.65,False
+ORD-1481,1,48EE99D5,Electric Kettle,Home Appliances,223.38,13.74,False
+ORD-1482,1,2E7B1579,Chef Knife Set,Kitchen Accessories,190.7,13.5,False
+ORD-1483,1,EBD6D6FC,Memory Foam Pillow,Bed & Bath,181.22,6.49,False
+ORD-1483,2,15C26432,Desk Organizer,Office Furniture,119.46,10.25,False
+ORD-1484,1,95A00FE1,Planter Pot,Garden Tools,112.54,17.41,False
+ORD-1484,2,F08E7AAA,Desk Organizer,Office Furniture,37.46,15.28,False
+ORD-1485,1,D18A8422,Resistance Bands,Sports & Leisure,156.07,7.11,False
+ORD-1486,1,5A298C8F,Water Bottle,Sports & Leisure,57.76,6.33,False
+ORD-1487,1,2BBF20EC,Cast Iron Pan,Kitchen Accessories,203.33,15.17,False
+ORD-1488,1,C4900059,Bamboo Towels,Bed & Bath,210.53,10.22,False
+ORD-1489,1,9ED83072,Planter Pot,Garden Tools,54.34,13.68,False
+ORD-1489,2,92185CBD,Mixing Bowls,Kitchen Accessories,185.58,13.49,False
+ORD-1490,1,235C5FF4,Chef Knife Set,Kitchen Accessories,121.26,15.27,False
+ORD-1491,1,F1DF5BF2,Garden Hose,Garden Tools,78.88,9.31,False
+ORD-1492,1,149B71F7,Air Purifier,Home Appliances,74.4,13.89,True
+ORD-1493,1,3CAD123D,Water Bottle,Sports & Leisure,156.26,5.0,False
+ORD-1494,1,5C3042AB,Garden Hose,Garden Tools,219.94,15.69,False
+ORD-1495,1,28806DC1,Yoga Mat,Sports & Leisure,76.09,5.47,False
+ORD-1495,2,3D9D9E2D,Wall Mirror,Furniture & Decor,104.69,19.49,True
+ORD-1496,1,A1DBBC7E,Planter Pot,Garden Tools,50.6,11.53,False
+ORD-1497,1,6B33E777,Memory Foam Pillow,Bed & Bath,67.24,11.23,False
+ORD-1497,2,5015A906,Pruning Shears,Garden Tools,77.51,18.9,False
+ORD-1498,1,D345DE8F,Yoga Mat,Sports & Leisure,43.07,11.62,False
+ORD-1499,1,BFD5C2E3,Desk Organizer,Office Furniture,89.85,11.99,False
+ORD-1499,2,6FBBEEFE,Smart Plug,Electronics,211.02,5.39,False
+ORD-1499,3,6CF1867E,Cutting Board,Kitchen Accessories,146.49,9.53,False
+ORD-1500,1,D67A1FF7,Bamboo Towels,Bed & Bath,24.61,17.67,False
+ORD-1501,1,3C4CA6F5,Bluetooth Speaker,Electronics,195.1,6.26,False
+ORD-1501,2,2D9915B8,Cast Iron Pan,Kitchen Accessories,141.96,17.32,False
+ORD-1502,1,52D00654,Cordless Vacuum,Home Appliances,173.67,15.11,False
+ORD-1502,2,7F290129,Air Purifier,Home Appliances,125.02,13.42,False
+ORD-1503,1,5BE55365,Bamboo Towels,Bed & Bath,149.32,15.78,False
+ORD-1504,1,4DE15291,Side Table,Furniture & Decor,27.56,7.29,False
+ORD-1504,2,B7016AD8,Cutting Board,Kitchen Accessories,57.32,12.1,False
+ORD-1505,1,7AC21968,Cordless Vacuum,Home Appliances,78.07,12.25,False
+ORD-1506,1,25DE7FAE,Soil Meter,Garden Tools,199.46,14.25,False
+ORD-1507,1,3486ACDB,Memory Foam Pillow,Bed & Bath,190.62,14.85,False
+ORD-1507,2,6BE24C32,Wall Mirror,Furniture & Decor,117.25,9.33,False
+ORD-1508,1,8241F204,Monitor Riser,Office Furniture,97.88,15.45,False
+ORD-1508,2,CF519971,Foam Roller,Sports & Leisure,45.14,9.24,False
+ORD-1509,1,61C5401B,Pruning Shears,Garden Tools,152.98,18.39,False
+ORD-1510,1,907B59D4,Standing Desk,Office Furniture,114.53,15.84,False
+ORD-1511,1,3249624A,Standing Desk,Office Furniture,88.69,15.58,False
+ORD-1511,2,6AF3ACE0,Cutting Board,Kitchen Accessories,155.32,10.27,False
+ORD-1511,3,5B9FF483,Desk Organizer,Office Furniture,168.18,16.79,False
+ORD-1512,1,D2670584,Soil Meter,Garden Tools,27.79,17.58,False
+ORD-1512,2,1428A914,LED Desk Lamp,Electronics,137.99,18.9,False
+ORD-1513,1,274931DE,Bamboo Towels,Bed & Bath,140.77,13.7,False
+ORD-1514,1,D0E1EE94,Chef Knife Set,Kitchen Accessories,19.4,15.98,False
+ORD-1514,2,F58EBFF4,Mixing Bowls,Kitchen Accessories,215.72,12.14,False
+ORD-1515,1,AD5C7E72,Side Table,Furniture & Decor,208.25,7.6,False
+ORD-1515,2,D65734F6,Yoga Mat,Sports & Leisure,26.43,8.75,True
+ORD-1515,3,FF856000,Mixing Bowls,Kitchen Accessories,178.64,14.09,False
+ORD-1516,1,E8FF9110,Ergonomic Chair,Office Furniture,164.61,10.65,False
+ORD-1516,2,69D70D7D,Floor Lamp,Furniture & Decor,67.78,11.55,False
+ORD-1516,3,818D3E93,Floor Lamp,Furniture & Decor,107.18,12.92,False
+ORD-1517,1,F7999D89,Cordless Vacuum,Home Appliances,57.16,17.14,False
+ORD-1518,1,0E49ADA5,Yoga Mat,Sports & Leisure,86.92,15.23,False
+ORD-1519,1,FD1D4392,LED Desk Lamp,Electronics,193.62,13.55,False
+ORD-1519,2,40C1AF66,Monitor Riser,Office Furniture,147.2,13.37,False
+ORD-1520,1,277DDE15,Foam Roller,Sports & Leisure,202.64,13.53,False
+ORD-1521,1,1E5CE5B2,Chef Knife Set,Kitchen Accessories,121.21,5.76,False
+ORD-1522,1,92A3344B,Planter Pot,Garden Tools,97.71,10.36,False
+ORD-1523,1,14CEA332,Pruning Shears,Garden Tools,128.96,8.61,False
+ORD-1524,1,5BCBA8DD,Soil Meter,Garden Tools,147.24,13.18,False
+ORD-1524,2,52776882,Wireless Charger,Electronics,154.74,5.47,False
+ORD-1525,1,502CD4FF,Air Purifier,Home Appliances,57.31,17.24,False
+ORD-1526,1,BED41E01,Air Purifier,Home Appliances,120.09,17.07,False
+ORD-1526,2,CB0071F7,Electric Kettle,Home Appliances,225.88,19.24,False
+ORD-1527,1,F8968884,Mixing Bowls,Kitchen Accessories,218.4,9.05,True
+ORD-1527,2,AECF0AD6,Robot Vacuum,Home Appliances,123.14,14.75,False
+ORD-1528,1,B7C87BFA,Side Table,Furniture & Decor,215.07,5.39,False
+ORD-1529,1,716CC614,Yoga Mat,Sports & Leisure,132.88,5.77,False
+ORD-1530,1,B70238EC,Foam Roller,Sports & Leisure,132.24,6.72,False
+ORD-1530,2,4D46A8E2,Monitor Riser,Office Furniture,55.01,11.54,True
+ORD-1531,1,33F10139,Air Purifier,Home Appliances,102.63,16.28,False
+ORD-1532,1,49FF851B,Cordless Vacuum,Home Appliances,202.49,8.74,True
+ORD-1533,1,8DFA9C60,LED Desk Lamp,Electronics,74.31,9.7,False
+ORD-1534,1,14EF3E5D,Garden Hose,Garden Tools,144.52,12.17,False
+ORD-1534,2,C7597E4F,Chef Knife Set,Kitchen Accessories,67.28,13.14,False
+ORD-1534,3,01ADDD88,Standing Desk,Office Furniture,109.24,9.53,False
+ORD-1535,1,889E2BA4,Bookshelf,Furniture & Decor,82.18,13.11,False
+ORD-1536,1,686EB670,Foam Roller,Sports & Leisure,73.7,8.04,False
+ORD-1537,1,C21B7450,Bookshelf,Furniture & Decor,173.98,8.15,False
+ORD-1537,2,D9AB8FF7,Cotton Duvet,Bed & Bath,225.2,15.47,False
+ORD-1537,3,1744845C,Smart Plug,Electronics,17.61,17.53,False
+ORD-1538,1,49B25810,Pruning Shears,Garden Tools,25.95,17.81,False
+ORD-1538,2,86A94391,Robot Vacuum,Home Appliances,96.46,5.66,False
+ORD-1539,1,00CA0C24,Yoga Mat,Sports & Leisure,156.3,5.46,False
+ORD-1540,1,12A804F9,Monitor Riser,Office Furniture,188.81,13.85,False
+ORD-1540,2,80F0C1AE,Desk Organizer,Office Furniture,200.86,16.73,False
+ORD-1540,3,68CAD54D,Cordless Vacuum,Home Appliances,133.05,19.28,False
+ORD-1541,1,AC0651EF,Bluetooth Speaker,Electronics,137.24,13.51,False
+ORD-1542,1,5ABDB76E,Foam Roller,Sports & Leisure,174.79,18.86,False
+ORD-1543,1,32510CF9,Pruning Shears,Garden Tools,229.73,16.56,False
+ORD-1544,1,E90CBA73,Electric Kettle,Home Appliances,91.48,14.88,False
+ORD-1545,1,CF3A8A60,Cordless Vacuum,Home Appliances,79.59,14.9,False
+ORD-1545,2,C775C1F7,Weighted Blanket,Bed & Bath,113.4,11.59,False
+ORD-1546,1,BBE15A34,LED Desk Lamp,Electronics,101.66,13.68,True
+ORD-1546,2,12F20175,Ergonomic Chair,Office Furniture,108.57,8.86,False
+ORD-1546,3,16E4DE82,Soil Meter,Garden Tools,40.6,14.45,False
+ORD-1547,1,1BFA8634,Air Purifier,Home Appliances,37.82,5.57,False
+ORD-1547,2,B441C4A5,Wireless Charger,Electronics,22.09,15.75,True
+ORD-1548,1,3448849D,Planter Pot,Garden Tools,16.49,17.66,False
+ORD-1548,2,139AFEF2,Air Purifier,Home Appliances,88.88,6.15,False
+ORD-1549,1,960C9D19,Floor Lamp,Furniture & Decor,83.69,10.56,False
+ORD-1550,1,17FAC3A6,Water Bottle,Sports & Leisure,44.04,9.89,False
+ORD-1551,1,A80F1575,Water Bottle,Sports & Leisure,115.13,19.59,False
+ORD-1552,1,5231E23C,Electric Kettle,Home Appliances,214.87,18.67,True
+ORD-1553,1,FE69298D,Monitor Riser,Office Furniture,216.96,10.67,False
+ORD-1553,2,5F060889,Weighted Blanket,Bed & Bath,178.48,14.73,False
+ORD-1554,1,CFC941A3,Wall Mirror,Furniture & Decor,129.95,6.81,False
+ORD-1554,2,AC760F5A,Robot Vacuum,Home Appliances,156.04,12.8,False
+ORD-1554,3,C360936D,Bookshelf,Furniture & Decor,210.69,9.92,False
+ORD-1555,1,01AF27B6,Wall Mirror,Furniture & Decor,81.31,19.58,False
+ORD-1555,2,22B8031F,Bluetooth Speaker,Electronics,91.52,10.27,False
+ORD-1555,3,3D91C84F,Desk Organizer,Office Furniture,144.32,11.72,False
+ORD-1556,1,EEE47B30,Memory Foam Pillow,Bed & Bath,181.48,11.1,False
+ORD-1557,1,42ECB4C0,Planter Pot,Garden Tools,87.11,6.76,False
+ORD-1558,1,87B9147F,Weighted Blanket,Bed & Bath,150.27,16.58,False
+ORD-1559,1,84608B39,Air Purifier,Home Appliances,39.2,8.94,False
+ORD-1559,2,FDC91255,Smart Plug,Electronics,40.42,5.5,False
+ORD-1560,1,11D27987,Cutting Board,Kitchen Accessories,124.72,12.93,False
+ORD-1560,2,833D4ED4,Water Bottle,Sports & Leisure,40.65,15.44,False
+ORD-1561,1,36B583DD,Monitor Riser,Office Furniture,141.34,14.24,False
+ORD-1562,1,8AC5A2BC,Desk Organizer,Office Furniture,210.61,14.45,False
+ORD-1563,1,C1D223DB,LED Desk Lamp,Electronics,172.15,15.85,False
+ORD-1564,1,1339EE30,Cutting Board,Kitchen Accessories,207.34,13.89,False
+ORD-1564,2,8E68FD45,Bluetooth Speaker,Electronics,82.52,7.64,False
+ORD-1565,1,E3B60BF1,Cutting Board,Kitchen Accessories,77.51,10.11,False
+ORD-1566,1,3F00FD27,Water Bottle,Sports & Leisure,83.04,9.77,False
+ORD-1566,2,81B0D5A9,Cotton Duvet,Bed & Bath,189.63,16.01,False
+ORD-1566,3,5244EC5F,Wall Mirror,Furniture & Decor,125.64,13.62,False
+ORD-1567,1,C565945E,Garden Hose,Garden Tools,38.72,9.1,False
+ORD-1568,1,2C1212EA,Planter Pot,Garden Tools,227.56,16.29,False
+ORD-1568,2,761E9F55,Garden Hose,Garden Tools,33.82,13.27,False
+ORD-1568,3,46FA1DB5,Cotton Duvet,Bed & Bath,142.84,5.59,False
+ORD-1569,1,77440DD2,Side Table,Furniture & Decor,118.97,17.33,False
+ORD-1570,1,52CA9501,Foam Roller,Sports & Leisure,126.02,17.46,False
+ORD-1571,1,7354F00A,Mixing Bowls,Kitchen Accessories,205.88,12.39,True
+ORD-1572,1,B2FAA8C2,Pruning Shears,Garden Tools,223.14,17.04,False
+ORD-1573,1,79DA4AD0,Cast Iron Pan,Kitchen Accessories,47.0,10.02,False
+ORD-1574,1,B6BBA911,Cast Iron Pan,Kitchen Accessories,206.61,5.57,False
+ORD-1574,2,96E1AA6E,Standing Desk,Office Furniture,195.58,14.91,False
+ORD-1575,1,08AF32D4,Air Purifier,Home Appliances,42.69,10.63,False
+ORD-1576,1,08AC391C,Soil Meter,Garden Tools,45.85,17.2,False
+ORD-1576,2,3B67C34C,Garden Hose,Garden Tools,56.08,18.13,False
+ORD-1577,1,C90A3277,Side Table,Furniture & Decor,107.24,12.35,False
+ORD-1577,2,EB0450C8,Cotton Duvet,Bed & Bath,103.73,8.94,False
+ORD-1578,1,37592CE7,Desk Organizer,Office Furniture,128.1,19.31,False
+ORD-1578,2,4C6340D8,Bookshelf,Furniture & Decor,157.94,12.34,False
+ORD-1579,1,2FAB60C9,Wireless Charger,Electronics,33.94,6.68,False
+ORD-1579,2,4AE7C5C5,Soil Meter,Garden Tools,223.34,9.87,False
+ORD-1580,1,CED03667,Wireless Charger,Electronics,156.34,10.2,False
+ORD-1581,1,3E9D29F0,Bluetooth Speaker,Electronics,143.42,15.3,True
+ORD-1582,1,FD070C47,Wall Mirror,Furniture & Decor,26.18,16.57,False
+ORD-1583,1,1D91D8F7,Foam Roller,Sports & Leisure,105.26,8.9,True
+ORD-1584,1,7AB40C9D,Bookshelf,Furniture & Decor,151.06,5.67,False
+ORD-1585,1,050F2BCF,Memory Foam Pillow,Bed & Bath,182.15,6.64,False
+ORD-1586,1,988EB5C2,Cotton Duvet,Bed & Bath,219.2,5.31,False
+ORD-1586,2,0BB0BE81,Monitor Riser,Office Furniture,179.39,13.28,False
+ORD-1587,1,A3E34EE1,Standing Desk,Office Furniture,226.78,17.56,False
+ORD-1588,1,15350214,Garden Hose,Garden Tools,210.6,9.96,False
+ORD-1588,2,0BBE687E,Side Table,Furniture & Decor,20.82,5.29,False
+ORD-1589,1,65B80C05,Foam Roller,Sports & Leisure,22.17,9.24,True
+ORD-1590,1,609C2F5F,Side Table,Furniture & Decor,72.11,6.84,False
+ORD-1590,2,DD38FBE8,Resistance Bands,Sports & Leisure,190.56,18.14,False
+ORD-1591,1,D82E43DD,Yoga Mat,Sports & Leisure,16.19,17.44,False
+ORD-1592,1,E417847C,Resistance Bands,Sports & Leisure,193.42,17.88,False
+ORD-1593,1,E243B006,Electric Kettle,Home Appliances,72.46,8.03,False
+ORD-1594,1,0CAD1D05,Bluetooth Speaker,Electronics,76.19,6.39,False
+ORD-1594,2,8FA43C82,Soil Meter,Garden Tools,74.71,15.53,False
+ORD-1595,1,3DDF7140,Bluetooth Speaker,Electronics,219.46,16.43,False
+ORD-1596,1,6C2D33CC,Robot Vacuum,Home Appliances,180.34,11.7,False
+ORD-1597,1,553A96A5,Planter Pot,Garden Tools,44.19,14.44,True
+ORD-1598,1,A8FFC4B2,Wall Mirror,Furniture & Decor,141.76,6.25,False
+ORD-1599,1,FBD649C2,Side Table,Furniture & Decor,179.52,8.77,False
+ORD-1599,2,325E9656,Standing Desk,Office Furniture,20.91,15.32,False
+ORD-1600,1,56F88428,Garden Hose,Garden Tools,176.83,16.91,False
+ORD-1600,2,48DD26E3,Standing Desk,Office Furniture,82.83,15.62,False
+ORD-1601,1,5A469F22,Chef Knife Set,Kitchen Accessories,105.37,6.15,False
+ORD-1601,2,CBD258FB,Air Purifier,Home Appliances,125.82,6.81,False
+ORD-1602,1,170E88B3,Chef Knife Set,Kitchen Accessories,205.14,12.42,False
+ORD-1602,2,8E5893B5,LED Desk Lamp,Electronics,175.52,13.2,False
+ORD-1603,1,6D9D67A3,Water Bottle,Sports & Leisure,169.22,18.19,False
+ORD-1604,1,922FC135,Standing Desk,Office Furniture,43.7,12.84,False
+ORD-1605,1,E778CDB0,Monitor Riser,Office Furniture,115.44,8.15,False
+ORD-1605,2,421350DC,Memory Foam Pillow,Bed & Bath,126.78,17.43,True
+ORD-1606,1,4D64A0BF,Weighted Blanket,Bed & Bath,27.54,19.64,False
+ORD-1607,1,FCA6467E,Mixing Bowls,Kitchen Accessories,84.82,5.91,False
+ORD-1608,1,0E0C837A,Standing Desk,Office Furniture,87.85,5.2,False
+ORD-1609,1,1CF535C8,Water Bottle,Sports & Leisure,92.69,16.49,False
+ORD-1610,1,121A5A1B,Side Table,Furniture & Decor,141.59,6.53,False
+ORD-1611,1,C077142F,Cutting Board,Kitchen Accessories,185.91,13.8,False
+ORD-1612,1,AAF277B0,Soil Meter,Garden Tools,58.41,5.03,False
+ORD-1613,1,6F33A9CB,Memory Foam Pillow,Bed & Bath,48.76,18.11,False
+ORD-1614,1,D951E676,Air Purifier,Home Appliances,124.03,11.59,False
+ORD-1614,2,A71E6B0D,Monitor Riser,Office Furniture,121.57,6.75,False
+ORD-1614,3,0CC3AB60,Foam Roller,Sports & Leisure,166.25,10.31,False
+ORD-1615,1,2EA917AD,Cutting Board,Kitchen Accessories,220.3,19.17,False
+ORD-1616,1,FB3280CF,Foam Roller,Sports & Leisure,119.34,16.82,False
+ORD-1616,2,E016DAB2,Water Bottle,Sports & Leisure,51.62,17.98,False
+ORD-1617,1,FC2D6AD8,Desk Organizer,Office Furniture,59.38,13.39,False
+ORD-1617,2,D5AA6512,Wall Mirror,Furniture & Decor,94.19,18.99,False
+ORD-1618,1,EC2D31E5,Standing Desk,Office Furniture,14.21,9.65,True
+ORD-1619,1,06BD1B5E,Pruning Shears,Garden Tools,144.66,5.49,False
+ORD-1620,1,D8B5B76E,Electric Kettle,Home Appliances,72.49,5.85,False
+ORD-1621,1,EBA52C61,Bluetooth Speaker,Electronics,119.39,12.09,False
+ORD-1622,1,CDB29B62,Chef Knife Set,Kitchen Accessories,93.18,14.18,False
+ORD-1622,2,5EDEC11E,Memory Foam Pillow,Bed & Bath,30.96,17.5,False
+ORD-1623,1,C89CFAE3,Electric Kettle,Home Appliances,34.14,13.15,False
+ORD-1624,1,3C173A71,Electric Kettle,Home Appliances,194.68,17.71,False
+ORD-1625,1,AF9DF38A,Ergonomic Chair,Office Furniture,217.09,11.04,False
+ORD-1625,2,BEFCC4B8,Cordless Vacuum,Home Appliances,54.86,16.41,False
+ORD-1626,1,4524F924,Weighted Blanket,Bed & Bath,22.65,14.12,False
+ORD-1627,1,B45D8ACC,Electric Kettle,Home Appliances,72.4,10.25,False
+ORD-1628,1,F6E5CDCF,Mixing Bowls,Kitchen Accessories,32.12,18.76,False
+ORD-1629,1,2612804C,Ergonomic Chair,Office Furniture,179.37,16.82,False
+ORD-1630,1,FA48FA30,Cutting Board,Kitchen Accessories,79.78,15.2,False
+ORD-1631,1,10213E18,Bamboo Towels,Bed & Bath,24.56,15.58,False
+ORD-1631,2,09B4727D,Bamboo Towels,Bed & Bath,102.82,17.52,False
+ORD-1632,1,01C09C13,Planter Pot,Garden Tools,164.36,8.96,False
+ORD-1633,1,E850B9AA,Desk Organizer,Office Furniture,192.99,15.3,False
+ORD-1634,1,DA9D72AD,Resistance Bands,Sports & Leisure,129.72,8.15,False
+ORD-1634,2,3BDED753,Monitor Riser,Office Furniture,58.01,15.48,False
+ORD-1634,3,7DBA1969,Pruning Shears,Garden Tools,124.37,8.15,False
+ORD-1635,1,3DDC728C,Cutting Board,Kitchen Accessories,116.11,12.0,False
+ORD-1636,1,54090E2E,Electric Kettle,Home Appliances,165.17,14.43,False
+ORD-1637,1,B3D0B7BA,Foam Roller,Sports & Leisure,85.62,14.71,False
+ORD-1638,1,F5FA50CF,Garden Hose,Garden Tools,114.29,7.78,True
+ORD-1638,2,D9356967,Bluetooth Speaker,Electronics,171.61,12.09,False
+ORD-1638,3,E870BB50,Monitor Riser,Office Furniture,117.7,11.01,True
+ORD-1639,1,25F10F07,Side Table,Furniture & Decor,104.34,16.6,False
+ORD-1639,2,D56A9F02,Yoga Mat,Sports & Leisure,48.58,7.49,False
+ORD-1639,3,2A4A0A48,Floor Lamp,Furniture & Decor,41.18,9.99,False
+ORD-1640,1,5E5E538D,Garden Hose,Garden Tools,186.91,11.87,False
+ORD-1640,2,5D26095E,Air Purifier,Home Appliances,56.48,7.57,False
+ORD-1640,3,90E118D5,Memory Foam Pillow,Bed & Bath,199.12,11.54,False
+ORD-1641,1,D98D232B,Ergonomic Chair,Office Furniture,116.57,10.16,False
+ORD-1642,1,A219065E,Wall Mirror,Furniture & Decor,158.04,17.46,False
+ORD-1642,2,02E3589F,Mixing Bowls,Kitchen Accessories,40.88,16.44,False
+ORD-1643,1,DA02286B,Soil Meter,Garden Tools,142.53,13.0,False
+ORD-1643,2,1B593555,Air Purifier,Home Appliances,205.16,7.66,False
+ORD-1644,1,A430D659,Robot Vacuum,Home Appliances,211.46,14.67,False
+ORD-1645,1,FE0929B2,Bookshelf,Furniture & Decor,107.47,10.08,False
+ORD-1646,1,D1BAF107,Planter Pot,Garden Tools,96.93,17.31,True
+ORD-1647,1,EFF3A1F3,Resistance Bands,Sports & Leisure,48.48,15.23,False
+ORD-1647,2,222635C8,Smart Plug,Electronics,88.13,15.98,False
+ORD-1647,3,7BAB1407,Yoga Mat,Sports & Leisure,47.9,6.92,False
+ORD-1648,1,E58895F5,Robot Vacuum,Home Appliances,154.87,15.04,False
+ORD-1648,2,E6A0B1A8,Electric Kettle,Home Appliances,105.21,16.12,False
+ORD-1649,1,4D252319,Wireless Charger,Electronics,182.47,15.67,False
+ORD-1649,2,0E6FB802,Ergonomic Chair,Office Furniture,183.44,19.7,False
+ORD-1650,1,FDC64BC8,Cutting Board,Kitchen Accessories,14.5,19.21,False
+ORD-1651,1,14654B41,Bluetooth Speaker,Electronics,23.52,9.22,False
+ORD-1652,1,D93E393A,Ergonomic Chair,Office Furniture,205.94,15.29,False
+ORD-1653,1,EEC96313,Pruning Shears,Garden Tools,130.77,7.67,False
+ORD-1654,1,AA11F2A9,Monitor Riser,Office Furniture,151.0,13.93,False
+ORD-1655,1,BEACDE00,Resistance Bands,Sports & Leisure,51.02,13.01,False
+ORD-1656,1,8529D4F3,Bluetooth Speaker,Electronics,206.71,10.17,False
+ORD-1657,1,5EE2419E,Smart Plug,Electronics,29.6,10.58,False
+ORD-1657,2,10983A9A,Mixing Bowls,Kitchen Accessories,124.23,15.87,False
+ORD-1658,1,F00B53EA,Soil Meter,Garden Tools,99.95,7.75,False
+ORD-1658,2,6BA2A080,Mixing Bowls,Kitchen Accessories,222.43,16.89,False
+ORD-1659,1,20B90486,Side Table,Furniture & Decor,94.2,12.08,False
+ORD-1659,2,E8EABC7D,Water Bottle,Sports & Leisure,175.06,16.66,False
+ORD-1659,3,8B8D784D,Robot Vacuum,Home Appliances,210.4,15.16,False
+ORD-1660,1,9D7E74A0,Robot Vacuum,Home Appliances,155.61,9.11,False
+ORD-1661,1,7AF02D69,Ergonomic Chair,Office Furniture,61.02,5.26,False
+ORD-1661,2,5DE7C97B,Cast Iron Pan,Kitchen Accessories,171.0,14.13,False
+ORD-1662,1,28C52094,Desk Organizer,Office Furniture,116.2,13.35,False
+ORD-1663,1,905C00F4,LED Desk Lamp,Electronics,113.23,16.13,False
+ORD-1664,1,8A5F97AF,Water Bottle,Sports & Leisure,100.43,14.9,False
+ORD-1664,2,78FFAD94,Mixing Bowls,Kitchen Accessories,134.8,10.17,False
+ORD-1665,1,EBC0CEBE,Monitor Riser,Office Furniture,76.32,9.72,False
+ORD-1665,2,90298A68,Air Purifier,Home Appliances,148.59,7.49,False
+ORD-1665,3,AAF1E880,Foam Roller,Sports & Leisure,229.08,5.34,False
+ORD-1666,1,232BC8BC,LED Desk Lamp,Electronics,94.43,13.05,False
+ORD-1667,1,92F79E98,Chef Knife Set,Kitchen Accessories,98.87,8.16,False
+ORD-1667,2,EB70E670,Garden Hose,Garden Tools,200.67,16.49,False
+ORD-1667,3,78DE195B,Foam Roller,Sports & Leisure,89.38,8.26,False
+ORD-1668,1,23DCB998,Ergonomic Chair,Office Furniture,157.13,15.29,False
+ORD-1669,1,DD8F6F1A,Resistance Bands,Sports & Leisure,199.41,12.41,False
+ORD-1669,2,61FEBDDD,LED Desk Lamp,Electronics,213.48,7.65,False
+ORD-1670,1,E9D83D17,Desk Organizer,Office Furniture,155.38,15.24,True
+ORD-1671,1,49229CEE,Foam Roller,Sports & Leisure,102.02,14.54,False
+ORD-1671,2,66FEA8C3,Cotton Duvet,Bed & Bath,143.1,15.97,False
+ORD-1672,1,FDFC95D5,Floor Lamp,Furniture & Decor,136.53,12.07,True
+ORD-1673,1,4A1D9EA6,Resistance Bands,Sports & Leisure,197.51,7.41,False
+ORD-1674,1,767ED66D,Weighted Blanket,Bed & Bath,216.35,18.81,False
+ORD-1674,2,B816B51B,Pruning Shears,Garden Tools,207.08,8.1,False
+ORD-1675,1,A1ADDAC6,LED Desk Lamp,Electronics,185.89,19.58,False
+ORD-1676,1,82DB8BC2,Standing Desk,Office Furniture,66.13,15.82,True
+ORD-1677,1,13335A1A,Foam Roller,Sports & Leisure,200.08,6.05,False
+ORD-1677,2,3F64E196,Pruning Shears,Garden Tools,168.32,14.09,False
+ORD-1678,1,39557D29,Bluetooth Speaker,Electronics,192.61,5.89,False
+ORD-1678,2,9D44991F,Electric Kettle,Home Appliances,99.67,18.9,False
+ORD-1679,1,0BEC5531,Chef Knife Set,Kitchen Accessories,44.67,8.93,False
+ORD-1680,1,C90FD3DC,Cutting Board,Kitchen Accessories,92.51,14.84,False
+ORD-1680,2,37860E75,Wall Mirror,Furniture & Decor,58.58,6.45,False
+ORD-1681,1,7FA34239,LED Desk Lamp,Electronics,177.25,10.13,False
+ORD-1682,1,DBE333D3,Wireless Charger,Electronics,136.3,13.91,False
+ORD-1683,1,1E7193E4,Pruning Shears,Garden Tools,60.95,10.55,False
+ORD-1684,1,57B416FE,Bamboo Towels,Bed & Bath,116.13,11.59,False
+ORD-1685,1,B6433B56,Memory Foam Pillow,Bed & Bath,144.81,17.88,False
+ORD-1685,2,B397F001,Side Table,Furniture & Decor,197.64,13.74,False
+ORD-1686,1,63565DF4,Desk Organizer,Office Furniture,116.49,18.49,False
+ORD-1687,1,E7205396,Monitor Riser,Office Furniture,95.01,18.88,False
+ORD-1687,2,9FA99CFD,LED Desk Lamp,Electronics,118.02,10.69,False
+ORD-1688,1,7A03B20A,Bookshelf,Furniture & Decor,57.79,7.24,False
+ORD-1689,1,523B149C,Cutting Board,Kitchen Accessories,90.35,11.88,False
+ORD-1689,2,C3CF5C1D,Air Purifier,Home Appliances,173.87,10.44,True
+ORD-1690,1,1FDCBD38,Ergonomic Chair,Office Furniture,71.9,19.41,False
+ORD-1690,2,4BBFCC8C,Chef Knife Set,Kitchen Accessories,109.91,12.83,False
+ORD-1691,1,C2836536,Memory Foam Pillow,Bed & Bath,62.54,15.75,False
+ORD-1691,2,BF535169,Planter Pot,Garden Tools,32.81,7.84,False
+ORD-1692,1,3882763D,Bamboo Towels,Bed & Bath,26.2,8.4,False
+ORD-1693,1,2110448A,Smart Plug,Electronics,129.5,16.71,False
+ORD-1693,2,A044C688,Cutting Board,Kitchen Accessories,116.78,11.62,False
+ORD-1694,1,8539BCB8,Wall Mirror,Furniture & Decor,78.08,5.13,False
+ORD-1695,1,00F573EC,LED Desk Lamp,Electronics,140.79,14.51,False
+ORD-1695,2,0E997E42,Electric Kettle,Home Appliances,176.73,14.01,False
+ORD-1695,3,0F67EA7F,Bamboo Towels,Bed & Bath,123.07,12.7,False
+ORD-1696,1,53D14D04,Bookshelf,Furniture & Decor,72.73,13.41,False
+ORD-1697,1,7E1F77FF,Weighted Blanket,Bed & Bath,14.4,18.39,False
+ORD-1698,1,1DEC2B5E,Cotton Duvet,Bed & Bath,178.01,15.08,True
+ORD-1699,1,B11A7E07,Standing Desk,Office Furniture,55.0,6.62,False
+ORD-1699,2,BA2F6A49,Planter Pot,Garden Tools,82.43,12.95,False
+ORD-1700,1,E3163185,Floor Lamp,Furniture & Decor,83.25,7.87,False
+ORD-1701,1,7F36B2B6,Memory Foam Pillow,Bed & Bath,83.66,12.74,False
+ORD-1702,1,C6F796E4,Water Bottle,Sports & Leisure,62.62,8.93,False
+ORD-1702,2,F9C35125,Planter Pot,Garden Tools,44.45,10.0,False
+ORD-1703,1,4AD21C9C,Wireless Charger,Electronics,105.28,10.89,False
+ORD-1703,2,5F0C384D,Yoga Mat,Sports & Leisure,223.19,10.29,False
+ORD-1704,1,41C3E2C7,Pruning Shears,Garden Tools,190.61,8.02,False
+ORD-1704,2,8598840A,Planter Pot,Garden Tools,193.65,5.35,False
+ORD-1704,3,57FD92C9,Water Bottle,Sports & Leisure,134.09,16.08,False
+ORD-1705,1,89C08C37,Wireless Charger,Electronics,36.17,8.64,False
+ORD-1705,2,3B538CFF,Bluetooth Speaker,Electronics,219.58,19.19,False
+ORD-1706,1,DB74084F,LED Desk Lamp,Electronics,73.78,14.09,False
+ORD-1707,1,FEFED6A8,Monitor Riser,Office Furniture,129.71,11.56,False
+ORD-1708,1,C8B70EEE,Cast Iron Pan,Kitchen Accessories,225.04,15.98,False
+ORD-1709,1,C2029B5B,Garden Hose,Garden Tools,134.91,11.56,False
+ORD-1709,2,1D05EE46,Planter Pot,Garden Tools,162.63,7.1,False
+ORD-1710,1,FFB52C1B,Monitor Riser,Office Furniture,209.4,11.68,False
+ORD-1710,2,D4D96AA0,Bamboo Towels,Bed & Bath,114.62,11.9,False
+ORD-1711,1,377C6AAC,Planter Pot,Garden Tools,143.97,18.98,False
+ORD-1711,2,04C16628,Foam Roller,Sports & Leisure,98.99,12.29,True
+ORD-1712,1,7BEDD143,Ergonomic Chair,Office Furniture,135.75,19.92,False
+ORD-1713,1,906FC452,Desk Organizer,Office Furniture,74.32,10.0,True
+ORD-1713,2,57E6767C,Chef Knife Set,Kitchen Accessories,224.4,16.7,False
+ORD-1714,1,1C9ABFD9,Mixing Bowls,Kitchen Accessories,145.37,19.88,False
+ORD-1714,2,A17393D6,Water Bottle,Sports & Leisure,114.05,18.33,False
+ORD-1715,1,EFD88C85,Ergonomic Chair,Office Furniture,52.41,13.62,False
+ORD-1716,1,CFF11455,Yoga Mat,Sports & Leisure,100.11,9.4,False
+ORD-1716,2,428FD898,Yoga Mat,Sports & Leisure,14.84,9.83,False
+ORD-1717,1,7D44F3EC,Desk Organizer,Office Furniture,154.82,7.99,False
+ORD-1717,2,AB34136D,Standing Desk,Office Furniture,53.97,7.21,False
+ORD-1718,1,04055098,Air Purifier,Home Appliances,130.19,19.31,False
+ORD-1719,1,BF340583,Floor Lamp,Furniture & Decor,56.76,7.44,False
+ORD-1720,1,7B58ECE8,Bookshelf,Furniture & Decor,18.91,18.15,False
+ORD-1721,1,EC73D2C4,Yoga Mat,Sports & Leisure,109.33,16.15,False
+ORD-1722,1,09273AFE,Bluetooth Speaker,Electronics,99.61,8.07,False
+ORD-1723,1,CD1BC637,Cutting Board,Kitchen Accessories,122.94,13.66,False
+ORD-1723,2,B78BBD1D,Memory Foam Pillow,Bed & Bath,39.11,12.33,False
+ORD-1724,1,2894E1D7,Desk Organizer,Office Furniture,54.43,19.77,False
+ORD-1724,2,B54ACED9,Desk Organizer,Office Furniture,68.39,6.67,False
+ORD-1725,1,981BB51A,Foam Roller,Sports & Leisure,221.65,6.49,False
+ORD-1726,1,32667469,Mixing Bowls,Kitchen Accessories,218.26,14.77,False
+ORD-1727,1,3605B749,Foam Roller,Sports & Leisure,16.43,19.45,False
+ORD-1727,2,F14E031F,Ergonomic Chair,Office Furniture,43.53,8.72,False
+ORD-1728,1,C29E1EFD,Memory Foam Pillow,Bed & Bath,163.82,16.42,True
+ORD-1729,1,422B83B8,Planter Pot,Garden Tools,147.0,17.34,False
+ORD-1729,2,4A58A825,Memory Foam Pillow,Bed & Bath,174.0,17.14,False
+ORD-1730,1,C53E7C24,Cutting Board,Kitchen Accessories,19.5,8.05,False
+ORD-1730,2,D884B3B4,Monitor Riser,Office Furniture,147.95,5.42,True
+ORD-1731,1,2BA8528D,Smart Plug,Electronics,172.47,7.16,False
+ORD-1732,1,0AFDDBF9,Memory Foam Pillow,Bed & Bath,34.72,10.22,False
+ORD-1733,1,E23651F3,Chef Knife Set,Kitchen Accessories,223.2,11.96,False
+ORD-1734,1,D3B188B5,LED Desk Lamp,Electronics,198.94,17.13,True
+ORD-1734,2,63CA4298,Bluetooth Speaker,Electronics,208.19,8.84,False
+ORD-1734,3,183553E2,Ergonomic Chair,Office Furniture,116.67,16.22,False
+ORD-1735,1,0B227E8F,Floor Lamp,Furniture & Decor,187.77,7.13,False
+ORD-1736,1,C3EB7DE9,Water Bottle,Sports & Leisure,205.45,6.57,False
+ORD-1736,2,2FC1942C,Bamboo Towels,Bed & Bath,84.3,19.6,False
+ORD-1737,1,175276D4,Garden Hose,Garden Tools,84.15,10.61,False
+ORD-1738,1,BC32AC91,Robot Vacuum,Home Appliances,150.11,16.9,False
+ORD-1738,2,AA9DD5DF,Air Purifier,Home Appliances,150.7,17.52,False
+ORD-1739,1,FFF55675,Robot Vacuum,Home Appliances,117.98,10.15,False
+ORD-1740,1,420E1FC8,Foam Roller,Sports & Leisure,228.41,11.79,False
+ORD-1740,2,D3742267,Smart Plug,Electronics,174.65,14.82,False
+ORD-1741,1,BF7979CC,Bamboo Towels,Bed & Bath,86.98,18.07,False
+ORD-1742,1,339F91B0,Cast Iron Pan,Kitchen Accessories,178.62,8.93,False
+ORD-1743,1,B6A8218E,Air Purifier,Home Appliances,33.51,19.62,False
+ORD-1744,1,33A56FA0,Garden Hose,Garden Tools,202.5,9.6,False
+ORD-1745,1,5C62CC50,Cutting Board,Kitchen Accessories,99.26,19.11,False
+ORD-1745,2,A51D8CC4,Floor Lamp,Furniture & Decor,195.27,8.32,True
+ORD-1745,3,CE197B10,Standing Desk,Office Furniture,135.14,12.95,True
+ORD-1746,1,087204F3,Floor Lamp,Furniture & Decor,94.25,6.49,False
+ORD-1747,1,381E2651,Floor Lamp,Furniture & Decor,130.35,19.32,False
+ORD-1747,2,B9C306F1,Bookshelf,Furniture & Decor,23.6,19.53,False
+ORD-1748,1,B223D290,Foam Roller,Sports & Leisure,114.55,7.03,False
+ORD-1749,1,380BF2F5,Planter Pot,Garden Tools,58.29,15.99,False
+ORD-1750,1,915B8A45,Resistance Bands,Sports & Leisure,44.19,17.33,False
+ORD-1751,1,C56DD137,Wall Mirror,Furniture & Decor,183.62,14.68,False
+ORD-1751,2,159C38B1,Floor Lamp,Furniture & Decor,194.04,6.05,False
+ORD-1752,1,60E3E212,Yoga Mat,Sports & Leisure,170.53,13.78,False
+ORD-1753,1,AA2C4908,Bamboo Towels,Bed & Bath,178.04,5.15,False
+ORD-1754,1,56670F4A,Mixing Bowls,Kitchen Accessories,63.37,11.56,False
+ORD-1755,1,24A98E21,LED Desk Lamp,Electronics,28.27,19.67,False
+ORD-1756,1,89862E80,Pruning Shears,Garden Tools,95.78,18.36,False
+ORD-1757,1,BE02952D,Weighted Blanket,Bed & Bath,177.58,8.36,False
+ORD-1758,1,EF84108B,Standing Desk,Office Furniture,201.64,14.96,False
+ORD-1758,2,E04FD176,Foam Roller,Sports & Leisure,25.28,6.57,False
+ORD-1758,3,8CC790FA,Planter Pot,Garden Tools,151.93,9.92,False
+ORD-1759,1,9FDE35B8,Ergonomic Chair,Office Furniture,15.79,15.69,False
+ORD-1760,1,CAA2DF76,Wall Mirror,Furniture & Decor,157.43,6.55,False
+ORD-1760,2,0EC03EB8,Bluetooth Speaker,Electronics,144.63,18.05,False
+ORD-1761,1,7AD6BB3A,Chef Knife Set,Kitchen Accessories,137.9,6.75,False
+ORD-1762,1,5BAA34DB,Foam Roller,Sports & Leisure,168.86,5.59,False
+ORD-1763,1,851CE0C5,Smart Plug,Electronics,217.01,17.19,False
+ORD-1764,1,E0A8F7BA,Air Purifier,Home Appliances,136.01,5.35,False
+ORD-1764,2,77E0856A,Cast Iron Pan,Kitchen Accessories,212.78,17.02,False
+ORD-1765,1,9D9FC5D3,Planter Pot,Garden Tools,190.58,10.15,False
+ORD-1765,2,6B578008,Bookshelf,Furniture & Decor,109.77,5.71,False
+ORD-1766,1,98483869,Garden Hose,Garden Tools,58.43,16.55,False
+ORD-1766,2,6BED57B1,Desk Organizer,Office Furniture,176.46,16.7,False
+ORD-1766,3,85896748,Smart Plug,Electronics,85.42,14.24,False
+ORD-1767,1,5C39F473,Bookshelf,Furniture & Decor,192.81,6.51,False
+ORD-1767,2,8142C828,Water Bottle,Sports & Leisure,147.92,14.58,False
+ORD-1768,1,CBAB52F8,Wireless Charger,Electronics,86.12,11.56,False
+ORD-1769,1,2FD0EBBF,Bamboo Towels,Bed & Bath,16.45,7.84,False
+ORD-1770,1,5122CF8B,Garden Hose,Garden Tools,99.35,15.42,False
+ORD-1771,1,5393335F,Water Bottle,Sports & Leisure,44.62,10.09,False
+ORD-1772,1,B147EEC6,Yoga Mat,Sports & Leisure,196.36,16.03,False
+ORD-1773,1,3D036978,Cast Iron Pan,Kitchen Accessories,229.87,11.63,True
+ORD-1773,2,94EF514E,Bamboo Towels,Bed & Bath,18.71,8.36,False
+ORD-1774,1,FA089902,Wall Mirror,Furniture & Decor,153.58,8.23,True
+ORD-1775,1,7A29A571,Robot Vacuum,Home Appliances,194.82,11.21,False
+ORD-1776,1,3C07EC1C,Resistance Bands,Sports & Leisure,196.99,13.7,False
+ORD-1777,1,737EC7B6,Water Bottle,Sports & Leisure,166.35,19.72,False
+ORD-1777,2,92839B81,Soil Meter,Garden Tools,93.33,18.49,False
+ORD-1777,3,A6C87990,Monitor Riser,Office Furniture,29.71,15.39,False
+ORD-1778,1,E896D0D8,Floor Lamp,Furniture & Decor,33.96,18.75,False
+ORD-1778,2,063AFDCF,Wireless Charger,Electronics,35.73,17.38,False
+ORD-1779,1,C3D943AF,Wall Mirror,Furniture & Decor,71.39,17.54,False
+ORD-1780,1,CEDD7A4B,Yoga Mat,Sports & Leisure,219.83,7.56,False
+ORD-1781,1,BB7EC229,Electric Kettle,Home Appliances,116.42,15.58,True
+ORD-1782,1,6FD4231B,Planter Pot,Garden Tools,218.57,15.91,False
+ORD-1783,1,764B5BFC,Weighted Blanket,Bed & Bath,59.69,11.77,False
+ORD-1784,1,AA0E3DCD,Standing Desk,Office Furniture,136.65,18.13,False
+ORD-1784,2,4159AFCC,Bamboo Towels,Bed & Bath,200.2,19.55,True
+ORD-1785,1,2B562FB0,Chef Knife Set,Kitchen Accessories,146.2,12.94,False
+ORD-1785,2,4C876BBA,Floor Lamp,Furniture & Decor,225.6,16.6,False
+ORD-1786,1,BC2D3FA2,Robot Vacuum,Home Appliances,171.11,9.97,True
+ORD-1786,2,C5A171F2,Foam Roller,Sports & Leisure,187.66,10.71,False
+ORD-1787,1,29E01048,Cotton Duvet,Bed & Bath,80.52,7.65,False
+ORD-1787,2,DE904C92,Soil Meter,Garden Tools,32.68,8.9,False
+ORD-1788,1,A8B8B97A,Cast Iron Pan,Kitchen Accessories,111.01,6.4,False
+ORD-1789,1,F967E1DE,Cordless Vacuum,Home Appliances,161.14,6.42,True
+ORD-1789,2,23F01C5A,Cordless Vacuum,Home Appliances,83.92,9.58,False
+ORD-1790,1,730FB536,Ergonomic Chair,Office Furniture,220.38,7.82,False
+ORD-1791,1,6296AC95,Bookshelf,Furniture & Decor,34.03,15.24,False
+ORD-1792,1,837979B6,Weighted Blanket,Bed & Bath,166.27,18.19,False
+ORD-1793,1,591A4727,Smart Plug,Electronics,147.98,19.02,False
+ORD-1794,1,1ECF02F0,Cast Iron Pan,Kitchen Accessories,215.89,6.61,False
+ORD-1794,2,60AB19A7,Cotton Duvet,Bed & Bath,120.98,14.04,False
+ORD-1795,1,FDB988C5,Bluetooth Speaker,Electronics,183.13,19.15,False
+ORD-1795,2,3666AA26,Cast Iron Pan,Kitchen Accessories,66.42,7.11,False
+ORD-1795,3,290658A8,LED Desk Lamp,Electronics,185.3,5.61,True
+ORD-1796,1,3A461F01,Smart Plug,Electronics,196.96,6.35,False
+ORD-1796,2,D9842950,Resistance Bands,Sports & Leisure,74.31,7.02,False
+ORD-1796,3,C89166BB,Soil Meter,Garden Tools,100.71,10.65,False
+ORD-1797,1,2380CC94,Desk Organizer,Office Furniture,145.29,9.58,False
+ORD-1798,1,66DD619D,Cordless Vacuum,Home Appliances,53.8,6.33,False
+ORD-1798,2,278CD690,Bamboo Towels,Bed & Bath,173.41,13.0,True
+ORD-1799,1,F54D399A,Bookshelf,Furniture & Decor,222.22,5.78,False

@@ -1,0 +1,301 @@
+customer_id,customer_name,customer_email,customer_city,customer_state,customer_zip_code
+4500CD43,James Rodriguez,customer5012@example.com,Los Angeles,CA,39256
+F47249B9,Sarah Williams,customer7912@example.com,Austin,TX,14165
+DFFFD4E0,David Miller,customer4811@example.com,San Diego,CA,76237
+37E7C449,James Miller,customer9928@example.com,Phoenix,AZ,64987
+DC0A479E,Carlos Rodriguez,customer1106@example.com,Denver,CO,30926
+8AE7BAAF,John Rodriguez,customer3547@example.com,Seattle,WA,38221
+F8864906,Sarah Williams,customer7224@example.com,New York,NY,22676
+9C3B576E,Amanda Rodriguez,customer1711@example.com,New York,NY,70217
+A76DC925,Sarah Taylor,customer2291@example.com,Miami,FL,82357
+8097BDC6,Amanda Miller,customer2139@example.com,Chicago,IL,16006
+F5EDF9A3,Jessica Williams,customer4814@example.com,Denver,CO,23238
+72D16EB4,William Patel,customer6977@example.com,Seattle,WA,31319
+B2B2C176,Amanda Miller,customer5374@example.com,New York,NY,99593
+76306931,Emily Davis,customer3677@example.com,Los Angeles,CA,70589
+9DB78FD3,William Davis,customer6313@example.com,Seattle,WA,17331
+CF891A2F,Maria Wilson,customer7572@example.com,Denver,CO,45093
+77054EA1,Michael Wilson,customer4483@example.com,Los Angeles,CA,95909
+5BB1F2BD,Thomas Patel,customer3340@example.com,Boston,MA,44718
+9DDD81D8,Ashley Rodriguez,customer8019@example.com,Austin,TX,86484
+B60806BD,Amanda Davis,customer3266@example.com,Seattle,WA,76784
+2AE532CD,David Johnson,customer2796@example.com,Boston,MA,30033
+622286D6,Melissa Williams,customer7304@example.com,Austin,TX,60019
+505E81BA,Carlos Rodriguez,customer1188@example.com,Phoenix,AZ,99166
+D8FB15D4,William Wilson,customer2827@example.com,Los Angeles,CA,48469
+EC13F53B,Emily Patel,customer1053@example.com,Seattle,WA,44522
+FF321F1B,Emily Brown,customer5889@example.com,Miami,FL,93748
+C13F73F8,Michael Jones,customer7126@example.com,Miami,FL,31174
+5313C1AC,James Wilson,customer9005@example.com,Miami,FL,12552
+079D4343,Amanda Martinez,customer4923@example.com,Los Angeles,CA,17592
+A1B5AAA3,David Williams,customer8962@example.com,Denver,CO,19071
+4249ACCE,Robert Jones,customer8787@example.com,Miami,FL,82063
+A680294F,William Nguyen,customer4470@example.com,Austin,TX,80686
+BDE58DB3,Jessica Taylor,customer7118@example.com,Denver,CO,67422
+E6C7A826,Carlos Brown,customer5061@example.com,Miami,FL,39451
+8F065601,John Smith,customer4770@example.com,Los Angeles,CA,87128
+EF635618,James Williams,customer1964@example.com,Denver,CO,40007
+8BE9E4D7,Maria Wilson,customer2160@example.com,Los Angeles,CA,77391
+BD4DB4C5,William Lee,customer4510@example.com,Denver,CO,80678
+27682BB7,Priya Davis,customer8749@example.com,Austin,TX,63354
+75EE3D85,Sarah Brown,customer8062@example.com,Denver,CO,56438
+AFDD6F56,Melissa Patel,customer1887@example.com,Seattle,WA,98259
+8F6F08AE,Maria Taylor,customer6559@example.com,Los Angeles,CA,24322
+BE8570A1,Michael Miller,customer9786@example.com,Denver,CO,68800
+7CD15F8B,Melissa Garcia,customer5563@example.com,Austin,TX,70637
+087493F1,David Patel,customer2604@example.com,Denver,CO,16630
+633E36CD,James Williams,customer4872@example.com,Miami,FL,31798
+82F1CC2F,Priya Lee,customer4502@example.com,Seattle,WA,62565
+EDAD7671,Emily Taylor,customer1035@example.com,San Diego,CA,61173
+42E0DA81,Carlos Martinez,customer7930@example.com,Chicago,IL,82845
+E38BC1BD,Robert Miller,customer5861@example.com,Boston,MA,38534
+C189FB48,Maria Wilson,customer1936@example.com,San Diego,CA,16572
+50345BE3,Priya Garcia,customer1931@example.com,Phoenix,AZ,76562
+ABA7E283,Emily Williams,customer2113@example.com,Los Angeles,CA,98501
+AE2C9AF6,Thomas Brown,customer5033@example.com,Denver,CO,85880
+F1010292,Maria Williams,customer7868@example.com,Phoenix,AZ,96163
+18B38E7F,John Rodriguez,customer4346@example.com,Phoenix,AZ,97782
+B3B50A55,Ashley Rodriguez,customer7484@example.com,New York,NY,27154
+7C6E8F71,Carlos Wilson,customer2188@example.com,Chicago,IL,11220
+EDD09C0E,Sarah Williams,customer9808@example.com,Boston,MA,37938
+6B4A47D4,William Jones,customer6718@example.com,Miami,FL,19016
+DFCCBF9A,Amanda Martinez,customer3584@example.com,Denver,CO,67433
+EE93D84A,Jessica Smith,customer5905@example.com,Miami,FL,96951
+B18BECF7,Robert Rodriguez,customer2891@example.com,Los Angeles,CA,24029
+5EE411AB,Robert Rodriguez,customer5616@example.com,Miami,FL,89276
+4BFAE7CA,John Miller,customer5325@example.com,Denver,CO,76244
+80C59387,William Johnson,customer2512@example.com,Boston,MA,93136
+26DD632E,William Johnson,customer1058@example.com,Seattle,WA,53719
+3603D99D,William Garcia,customer8239@example.com,Austin,TX,82309
+AB0ADF6D,James Brown,customer2232@example.com,Seattle,WA,29536
+69413040,Maria Anderson,customer3426@example.com,Miami,FL,66333
+A98BD4CA,Maria Martinez,customer6974@example.com,Austin,TX,15229
+B0353AC9,Michael Davis,customer2684@example.com,New York,NY,56357
+5B7BC6D4,Melissa Jones,customer4878@example.com,Miami,FL,31299
+E9828A93,Melissa Smith,customer3938@example.com,Austin,TX,53540
+01A064F6,Ashley Rodriguez,customer3608@example.com,Seattle,WA,24168
+19FCBD58,Maria Lee,customer4644@example.com,Seattle,WA,36158
+808DB87D,Amanda Martinez,customer4728@example.com,Boston,MA,39219
+429D783C,Michael Taylor,customer6378@example.com,San Diego,CA,46517
+4BD267A6,William Anderson,customer9346@example.com,Los Angeles,CA,62386
+171F3EAC,John Smith,customer2889@example.com,Miami,FL,44237
+2497A702,William Johnson,customer2776@example.com,Austin,TX,88193
+D50EE0D6,Amanda Wilson,customer8149@example.com,Seattle,WA,89457
+5711A536,Sarah Taylor,customer4114@example.com,Miami,FL,43386
+BB724B0E,Melissa Smith,customer9518@example.com,San Diego,CA,80575
+6EAC63E9,Amanda Nguyen,customer2146@example.com,Denver,CO,97062
+7B31E78F,John Brown,customer5920@example.com,New York,NY,76469
+ECF6E8EC,Melissa Wilson,customer7592@example.com,Chicago,IL,48752
+832A1B94,Robert Miller,customer7888@example.com,Miami,FL,97153
+5CD0F6CF,Emily Martinez,customer7653@example.com,Seattle,WA,81819
+038C1BBC,Jessica Martinez,customer4443@example.com,San Diego,CA,66346
+11011A0E,John Patel,customer8238@example.com,Phoenix,AZ,67954
+0D884CEF,Priya Garcia,customer2389@example.com,Denver,CO,47196
+3E6693F5,John Williams,customer4848@example.com,Miami,FL,98184
+A52B1FB6,Ashley Miller,customer3414@example.com,Chicago,IL,13201
+B912D5F4,Ashley Lee,customer2193@example.com,San Diego,CA,69692
+015F9CB2,Michael Taylor,customer9099@example.com,Seattle,WA,62383
+32FADC0C,Robert Smith,customer2746@example.com,Denver,CO,65724
+DEE3D6A2,Emily Patel,customer1822@example.com,Denver,CO,83060
+CD2746FC,Sarah Patel,customer3184@example.com,Denver,CO,70901
+C73BDF79,John Patel,customer9270@example.com,Miami,FL,65933
+C663B53F,Carlos Garcia,customer8777@example.com,Miami,FL,68991
+D370CB20,Ashley Rodriguez,customer9540@example.com,Chicago,IL,73517
+3416F317,William Patel,customer2269@example.com,Denver,CO,47450
+5C77D51D,William Wilson,customer6238@example.com,Denver,CO,80798
+48BD7333,Robert Jones,customer4788@example.com,Los Angeles,CA,60205
+AEFAC9E4,Michael Williams,customer7797@example.com,Austin,TX,63424
+932391F9,Carlos Nguyen,customer2020@example.com,New York,NY,37110
+98F33507,Thomas Smith,customer7232@example.com,Seattle,WA,72518
+A32C3669,Amanda Martinez,customer7389@example.com,San Diego,CA,64921
+A29305B1,Ashley Lee,customer4595@example.com,Miami,FL,45774
+9CD88761,Priya Smith,customer7371@example.com,Seattle,WA,54057
+82088E1B,Emily Patel,customer3091@example.com,Seattle,WA,91560
+BF85E663,James Taylor,customer1444@example.com,Miami,FL,21003
+6C069DF9,Robert Patel,customer3977@example.com,Seattle,WA,16590
+F56CF67B,Thomas Wilson,customer4467@example.com,Chicago,IL,69598
+1D903DC8,John Taylor,customer5558@example.com,New York,NY,65255
+1AC5963B,David Lee,customer1317@example.com,Chicago,IL,80702
+35A9A9EA,Amanda Davis,customer2124@example.com,San Diego,CA,95426
+20F1B4F7,James Davis,customer4266@example.com,San Diego,CA,12671
+0CED663F,Robert Davis,customer3068@example.com,Phoenix,AZ,72070
+3994C417,Michael Patel,customer5198@example.com,Los Angeles,CA,58351
+01CA2F7A,Sarah Garcia,customer6096@example.com,Austin,TX,24168
+86EDD244,James Martinez,customer7149@example.com,Phoenix,AZ,61990
+29F2A289,David Davis,customer2669@example.com,Denver,CO,49529
+8FC9FAA4,Sarah Johnson,customer6688@example.com,Phoenix,AZ,79827
+A1FA49E9,Amanda Williams,customer9289@example.com,Seattle,WA,94874
+B4F450DA,James Nguyen,customer9031@example.com,New York,NY,23833
+E79CC0BA,Amanda Patel,customer3506@example.com,Seattle,WA,67080
+8E97383C,William Lee,customer8616@example.com,Austin,TX,67091
+6C4D8403,William Wilson,customer5022@example.com,Phoenix,AZ,21359
+A225A8E5,Carlos Davis,customer8613@example.com,Chicago,IL,84691
+EBFDA1FF,Thomas Wilson,customer1470@example.com,Phoenix,AZ,74789
+447DBD48,Emily Lee,customer4475@example.com,New York,NY,56507
+6C1301E3,John Rodriguez,customer5526@example.com,Chicago,IL,82848
+EFD7F66B,Michael Williams,customer4954@example.com,San Diego,CA,63271
+D79888FC,Ashley Lee,customer9041@example.com,Boston,MA,68743
+0AD5C52A,David Martinez,customer4630@example.com,San Diego,CA,63005
+24DD20C9,Jessica Anderson,customer8753@example.com,Denver,CO,82544
+BD0E57B7,Amanda Nguyen,customer6419@example.com,Miami,FL,56112
+6945D71C,William Martinez,customer5118@example.com,Boston,MA,40217
+46FA722B,Michael Wilson,customer2958@example.com,Los Angeles,CA,80236
+6723BC6D,Michael Miller,customer8933@example.com,Austin,TX,46241
+D5466057,Jessica Brown,customer4180@example.com,Phoenix,AZ,48829
+8F66E97F,Amanda Garcia,customer5952@example.com,Denver,CO,11854
+6FC922C6,Robert Rodriguez,customer1745@example.com,Miami,FL,17146
+959458D3,Jessica Jones,customer9042@example.com,Miami,FL,23446
+2A5CA070,Jessica Lee,customer8843@example.com,San Diego,CA,67733
+41289671,Emily Johnson,customer5136@example.com,New York,NY,72616
+3519E4E2,David Taylor,customer9056@example.com,Los Angeles,CA,19710
+C0507535,Maria Jones,customer3444@example.com,Phoenix,AZ,83772
+22D77CA6,David Davis,customer2940@example.com,Chicago,IL,83147
+7473453F,Ashley Taylor,customer8381@example.com,Seattle,WA,68028
+7FAEB651,Melissa Martinez,customer1986@example.com,Chicago,IL,89905
+3DB2504C,Michael Miller,customer5335@example.com,Los Angeles,CA,96563
+5F2A0CF3,Emily Davis,customer3847@example.com,Los Angeles,CA,82350
+49109F27,Emily Smith,customer7693@example.com,Los Angeles,CA,69048
+39F0F02B,Priya Martinez,customer1534@example.com,Phoenix,AZ,40340
+CD5FF65B,Jessica Patel,customer2166@example.com,Chicago,IL,40595
+F038F576,Michael Nguyen,customer2880@example.com,Chicago,IL,81376
+6D269C22,Robert Rodriguez,customer3330@example.com,Denver,CO,19359
+4A657906,Emily Martinez,customer5728@example.com,San Diego,CA,67560
+DBD053B8,Carlos Martinez,customer7594@example.com,Los Angeles,CA,45683
+5E0395C3,Priya Patel,customer2317@example.com,Miami,FL,88385
+80D81D39,Melissa Wilson,customer5102@example.com,San Diego,CA,13390
+1DF0154A,Ashley Smith,customer5415@example.com,Los Angeles,CA,85529
+D7AF9BBB,Emily Lee,customer9502@example.com,San Diego,CA,95394
+F9EA111E,William Garcia,customer8141@example.com,Boston,MA,93202
+93EE4289,David Lee,customer6700@example.com,Boston,MA,63523
+426B01C7,John Brown,customer3634@example.com,New York,NY,53228
+ADA237BB,Priya Martinez,customer7561@example.com,Seattle,WA,82102
+0033B9CF,Carlos Williams,customer6153@example.com,San Diego,CA,43082
+FF7F8E60,Sarah Taylor,customer9431@example.com,New York,NY,10150
+124477A8,Carlos Nguyen,customer1888@example.com,Miami,FL,34586
+7AB289F5,Amanda Lee,customer8242@example.com,Miami,FL,16764
+5F21DC9E,William Jones,customer5719@example.com,Denver,CO,67424
+A7B567EF,Sarah Smith,customer4920@example.com,Boston,MA,30758
+78E7B8F2,James Nguyen,customer2527@example.com,Chicago,IL,39451
+F8517640,Carlos Brown,customer3522@example.com,Los Angeles,CA,75323
+C917982F,William Nguyen,customer8905@example.com,Chicago,IL,71894
+7DC0E179,Carlos Jones,customer7284@example.com,Denver,CO,34983
+392B6850,Robert Williams,customer5526@example.com,Phoenix,AZ,64387
+A19E8562,William Smith,customer5634@example.com,New York,NY,49132
+6613CAF0,Priya Jones,customer8316@example.com,Phoenix,AZ,80592
+CFE89E95,Amanda Wilson,customer9903@example.com,Boston,MA,59441
+3E283C8B,John Miller,customer4912@example.com,Boston,MA,84946
+D31A7FA7,Ashley Nguyen,customer1715@example.com,Seattle,WA,51704
+8BF384C7,Thomas Taylor,customer3492@example.com,Boston,MA,74923
+0B643D4A,Robert Wilson,customer2644@example.com,San Diego,CA,67711
+25652F40,Carlos Smith,customer3361@example.com,Los Angeles,CA,63736
+809F0A73,David Lee,customer5342@example.com,Austin,TX,54375
+E668A4FB,Thomas Williams,customer6383@example.com,Phoenix,AZ,98389
+3FAD766A,Thomas Wilson,customer8994@example.com,Miami,FL,80912
+4B18FF24,David Davis,customer5708@example.com,San Diego,CA,39817
+A80CEFB9,Melissa Brown,customer2646@example.com,Los Angeles,CA,68153
+FD075CDC,Jessica Smith,customer1753@example.com,Austin,TX,52516
+A6691779,Jessica Anderson,customer7141@example.com,San Diego,CA,66450
+0BD3D6B1,Ashley Nguyen,customer3950@example.com,Austin,TX,32280
+892555F4,David Taylor,customer4945@example.com,Austin,TX,75230
+0E11974E,Robert Davis,customer8555@example.com,Phoenix,AZ,93611
+131D78BC,Carlos Rodriguez,customer1153@example.com,Chicago,IL,70981
+9F4DF401,Emily Williams,customer8237@example.com,Chicago,IL,55293
+A85ACCB3,Jessica Nguyen,customer5097@example.com,Phoenix,AZ,69878
+57D22B1C,Michael Taylor,customer8916@example.com,Chicago,IL,23979
+84496A78,Thomas Anderson,customer5847@example.com,Denver,CO,48696
+AE285A5D,Thomas Rodriguez,customer1132@example.com,San Diego,CA,84177
+AF31B604,Priya Martinez,customer4770@example.com,San Diego,CA,89569
+64177184,Ashley Miller,customer5106@example.com,New York,NY,98835
+7B084165,Sarah Johnson,customer6061@example.com,Austin,TX,67779
+41F00E6E,Amanda Jones,customer2476@example.com,San Diego,CA,48680
+E6DC95C4,Melissa Garcia,customer4289@example.com,New York,NY,27322
+1CE8DA1F,Amanda Rodriguez,customer3695@example.com,Miami,FL,43681
+52BB98AA,Jessica Wilson,customer2886@example.com,Boston,MA,71385
+73FC9EBB,Robert Davis,customer7511@example.com,Los Angeles,CA,83048
+53E1CF41,David Taylor,customer1228@example.com,New York,NY,44663
+B9A1EDE7,Sarah Patel,customer7038@example.com,Miami,FL,98188
+6F8FA37F,Thomas Anderson,customer2775@example.com,Chicago,IL,98452
+A3ED0C05,Priya Smith,customer6374@example.com,Denver,CO,89964
+1E9C1BBC,David Patel,customer5951@example.com,Denver,CO,95097
+36CD62F0,Sarah Jones,customer1742@example.com,Seattle,WA,14877
+0A57189F,Priya Brown,customer2592@example.com,Chicago,IL,40775
+0D14E27F,Robert Taylor,customer8432@example.com,Miami,FL,58629
+4DEFB704,Melissa Jones,customer7797@example.com,Miami,FL,95841
+E03C9673,Priya Nguyen,customer5583@example.com,Los Angeles,CA,14288
+79BD978D,Michael Patel,customer8285@example.com,New York,NY,40947
+F6113470,Sarah Anderson,customer9920@example.com,New York,NY,94518
+CBB0F754,Maria Taylor,customer5520@example.com,New York,NY,34878
+8EDC1A48,Carlos Williams,customer4475@example.com,Los Angeles,CA,94109
+6294E166,James Johnson,customer6464@example.com,Phoenix,AZ,41925
+1E556B3B,Michael Williams,customer4394@example.com,Austin,TX,86858
+88D692E8,Ashley Wilson,customer3417@example.com,Denver,CO,88116
+E06D66F2,William Jones,customer3129@example.com,San Diego,CA,80807
+53FFCE78,Emily Brown,customer1422@example.com,Chicago,IL,27275
+780E2453,Amanda Davis,customer6304@example.com,San Diego,CA,12068
+E3F28F66,William Johnson,customer3076@example.com,Austin,TX,65176
+013D341C,Sarah Williams,customer8802@example.com,Miami,FL,68756
+B0608BB8,Sarah Patel,customer9254@example.com,New York,NY,39038
+04DED5CA,Maria Martinez,customer8504@example.com,Phoenix,AZ,94323
+A96E6D49,Maria Lee,customer7580@example.com,San Diego,CA,65872
+99A6B9C8,Priya Patel,customer2204@example.com,Los Angeles,CA,20589
+51E6C37E,Robert Williams,customer3067@example.com,New York,NY,46046
+60646B32,John Taylor,customer9692@example.com,Phoenix,AZ,48652
+5406B5CC,Melissa Brown,customer2874@example.com,Boston,MA,95814
+ADB225B1,Michael Nguyen,customer8398@example.com,Miami,FL,39949
+8CB2B9B7,John Patel,customer7532@example.com,Seattle,WA,64524
+715C686D,John Nguyen,customer6120@example.com,Los Angeles,CA,97177
+C0E7745C,Amanda Jones,customer8770@example.com,Chicago,IL,18799
+35925559,David Williams,customer8075@example.com,Los Angeles,CA,22656
+C35B0B7E,Robert Johnson,customer6400@example.com,New York,NY,97819
+49F71FE0,Melissa Anderson,customer7929@example.com,Los Angeles,CA,16743
+6A6C030A,Jessica Anderson,customer2697@example.com,Chicago,IL,85748
+18FB9E58,Michael Jones,customer8900@example.com,Miami,FL,39392
+C81562F8,Amanda Anderson,customer2882@example.com,Los Angeles,CA,46512
+E892A0A4,Ashley Nguyen,customer1430@example.com,Phoenix,AZ,89822
+E3B1642E,James Garcia,customer5477@example.com,Chicago,IL,50499
+ECF45610,Amanda Smith,customer3972@example.com,New York,NY,28776
+0AFC6008,Thomas Williams,customer3324@example.com,Phoenix,AZ,92991
+25517AFE,David Miller,customer7163@example.com,San Diego,CA,65028
+E9B0ED7F,John Garcia,customer7062@example.com,Boston,MA,50846
+870942B9,David Johnson,customer3549@example.com,New York,NY,30632
+85511DF2,Maria Williams,customer5458@example.com,Phoenix,AZ,68079
+831F2FFE,Priya Patel,customer7785@example.com,Seattle,WA,45804
+97854430,Sarah Anderson,customer8043@example.com,Denver,CO,24534
+928AF415,Priya Martinez,customer1744@example.com,Chicago,IL,38903
+08C02C3F,Maria Smith,customer4349@example.com,Seattle,WA,49507
+7258EB8E,Robert Rodriguez,customer5742@example.com,Denver,CO,53007
+66A7F8E9,James Lee,customer8055@example.com,Los Angeles,CA,33028
+D1190880,Thomas Davis,customer9196@example.com,Austin,TX,83233
+AC49D903,David Taylor,customer1693@example.com,New York,NY,67176
+9082E6BF,Carlos Williams,customer6129@example.com,San Diego,CA,85465
+26A79147,Thomas Nguyen,customer5743@example.com,Seattle,WA,25096
+14B512E6,James Wilson,customer3815@example.com,Seattle,WA,91018
+D42D5844,Amanda Williams,customer8155@example.com,Boston,MA,23875
+BC8D9355,Melissa Taylor,customer9584@example.com,Denver,CO,20308
+33793578,Jessica Wilson,customer4630@example.com,Seattle,WA,53655
+120CA02A,David Brown,customer9693@example.com,Austin,TX,76840
+A57066F2,Amanda Anderson,customer3419@example.com,Denver,CO,40968
+65AD1E3F,Robert Rodriguez,customer4232@example.com,Los Angeles,CA,32740
+7ADA0D30,Robert Williams,customer3902@example.com,Phoenix,AZ,92306
+B4F65690,Carlos Patel,customer6295@example.com,Boston,MA,92210
+56562227,Robert Patel,customer2118@example.com,New York,NY,71462
+23ABA453,Jessica Rodriguez,customer1920@example.com,Boston,MA,56129
+30F3ADFE,David Martinez,customer8565@example.com,Miami,FL,69233
+4606D33D,Maria Anderson,customer5703@example.com,San Diego,CA,20057
+D3528162,Thomas Patel,customer1672@example.com,Los Angeles,CA,68947
+AEBC220F,Michael Wilson,customer8792@example.com,Phoenix,AZ,75715
+57E4608C,Maria Patel,customer2695@example.com,Austin,TX,55015
+501769B7,Emily Johnson,customer5059@example.com,Los Angeles,CA,67377
+416B8CE0,Emily Anderson,customer7108@example.com,Boston,MA,47079
+2EE544FC,Melissa Wilson,customer1857@example.com,Seattle,WA,92691
+C66039B6,David Wilson,customer2548@example.com,New York,NY,83133
+65D06423,Jessica Rodriguez,customer3463@example.com,Seattle,WA,53694
+27B58C0A,Robert Anderson,customer6082@example.com,Los Angeles,CA,95990
+4259593F,Robert Williams,customer6072@example.com,Seattle,WA,83259
+E2EEE39E,John Jones,customer9624@example.com,Seattle,WA,22249
+A2700B09,Amanda Smith,customer6940@example.com,Seattle,WA,50483
+8A6A88B9,Michael Wilson,customer8967@example.com,Austin,TX,35166
+90A903E4,Robert Jones,customer2264@example.com,Denver,CO,48770
+8B12DC85,Maria Wilson,customer3147@example.com,Los Angeles,CA,88282
+FC939048,Robert Garcia,customer3962@example.com,Seattle,WA,91885
+81F6C50A,Carlos Johnson,customer7731@example.com,Austin,TX,57749
